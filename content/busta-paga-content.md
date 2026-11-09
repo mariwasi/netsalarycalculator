@@ -98,7 +98,7 @@ No. Il cedolino mostra solo la tua parte: i contributi e le imposte a carico del
 
 ### La busta paga part-time è diversa?
 
-La struttura è identica: cambiano gli importi, proporzionati alla percentuale di orario, e spesso le soglie pratiche (per esempio i buoni pasto, legati alle ore giornaliere). Trovi il dettaglio nel nostro hub [stipendio part-time](/stipendio-netto-part-time-30-ore/).
+La struttura è identica: cambiano gli importi, proporzionati alla percentuale di orario, e spesso le soglie pratiche (per esempio i buoni pasto, legati alle ore giornaliere). Trovi il dettaglio nella sezione part-time della guida [calcolo RAL](/calcolo-ral/).
 
 ### L'INAIL è una trattenuta del dipendente?
 

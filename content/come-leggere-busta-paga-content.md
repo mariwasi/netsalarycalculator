@@ -31,7 +31,7 @@ Subito sotto la testata trovi il registro del mese: giorni e ore lavorati, giorn
 
 Questa è la sezione "in positivo". Voce per voce:
 
-- **Paga base**: deve essere uguale o superiore al minimo del tuo CCNL e livello. Se è più bassa, c'è un problema serio. Puoi confrontarla con le nostre pagine per [Metalmeccanico](/stipendio-netto-metalmeccanico-livello-d2/) e [Commercio](/stipendio-netto-commercio-4-livello/), che riportano i minimi per livello.
+- **Paga base**: deve essere uguale o superiore al minimo del tuo CCNL e livello. Se è più bassa, c'è un problema serio. Puoi confrontarla con le nostre pagine per [Metalmeccanico](/ccnl-metalmeccanico/) e [Commercio](/ccnl-commercio/), che spiegano i livelli e come si calcola il netto.
 - **Contingenza ed EDR**: importi fissi e storici; l'EDR è di 10,33 €.
 - **Scatti di anzianità**: se lavori da anni nella stessa azienda e questa voce non compare (o non cresce mai), chiedi il perché all'ufficio del personale. Gli scatti maturano automaticamente secondo il CCNL: non vanno richiesti, ma vanno controllati.
 - **Superminimo**: controlla se è marcato come "assorbibile". In quel caso i prossimi aumenti contrattuali potrebbero non alzare il tuo lordo: verranno assorbiti da questa voce.

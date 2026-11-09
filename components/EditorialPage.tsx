@@ -23,14 +23,14 @@ function InlineText({ nodes }: { nodes: Inline[] }) {
         }
         if (node.kind === "internal") {
           return (
-            <Link key={index} href={node.href} className="text-[#00695C] underline">
+            <Link key={index} href={node.href} className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">
               <InlineText nodes={node.children} />
             </Link>
           );
         }
         if (node.kind === "external") {
           return (
-            <a key={index} href={node.href} className="text-[#00695C] underline">
+            <a key={index} href={node.href} className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">
               <InlineText nodes={node.children} />
             </a>
           );
