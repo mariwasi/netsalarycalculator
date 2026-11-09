@@ -99,20 +99,20 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-white/95 backdrop-blur">
-      <div className="mx-auto flex h-28 w-full max-w-[90rem] items-center justify-between gap-4 px-4 sm:px-6">
+      <div className="mx-auto flex h-32 w-full max-w-[90rem] items-center justify-between gap-4 px-4 sm:px-6 md:justify-center md:gap-10 lg:gap-14">
         <a
           href="#inizio"
           className="inline-flex flex-col items-center gap-1 rounded-2xl px-3 py-1 text-[1.05rem] font-bold tracking-tight text-forest transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98]"
         >
-          <span className="h-16 w-16 overflow-hidden rounded-full">
-            <Image src="/logo.webp" alt="StipendioNetto — logo" width={64} height={64} className="h-16 w-16 object-cover" priority />
+          <span className="h-20 w-20 overflow-hidden rounded-full">
+            <Image src="/logo.webp" alt="StipendioNetto — logo" width={80} height={80} className="h-20 w-20 object-cover" priority />
           </span>
           StipendioNetto
         </a>
 
         <nav className="hidden items-center gap-4 whitespace-nowrap lg:gap-6 md:flex" aria-label="Sezioni della pagina">
           {links.map((link) => (
-            <Link key={link.href} href={link.href} className="whitespace-nowrap text-sm font-bold text-forest hover:text-lime">
+            <Link key={link.href} href={link.href} className="whitespace-nowrap text-sm font-extrabold text-forest hover:text-lime">
               {link.label}
             </Link>
           ))}
@@ -127,7 +127,7 @@ export function Header() {
             <button
               ref={desktopButtonRef}
               type="button"
-              className="inline-flex items-center gap-1 text-sm font-bold text-forest hover:text-lime"
+              className="inline-flex items-center gap-1 text-sm font-extrabold text-forest hover:text-lime"
               aria-expanded={guideOpen}
               aria-haspopup="true"
               aria-controls={desktopMenuId}
@@ -187,7 +187,7 @@ export function Header() {
           <ul className="flex flex-col">
             {links.map((link) => (
               <li key={link.href}>
-                <Link href={link.href} className="block py-2.5 text-sm font-bold text-forest" onClick={closeMenus}>
+                <Link href={link.href} className="block py-2.5 text-sm font-extrabold text-forest" onClick={closeMenus}>
                   {link.label}
                 </Link>
               </li>
@@ -201,7 +201,7 @@ export function Header() {
                 <button
                   ref={mobileButtonRef}
                   type="button"
-                  className="flex w-full items-center justify-between py-2.5 text-left text-sm font-bold text-forest"
+                  className="flex w-full items-center justify-between py-2.5 text-left text-sm font-extrabold text-forest"
                   aria-expanded={guideOpen}
                   aria-haspopup="true"
                   aria-controls={mobileGuideId}
