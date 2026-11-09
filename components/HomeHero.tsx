@@ -71,8 +71,8 @@ export function HomeHero({ calculator }: { calculator: ReactNode }) {
           <div className="min-w-0">{calculator}</div>
         </div>
         <ul className="mt-4 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm font-bold text-white">
-          <li>🤝 Trusted Partners</li>
-          <li>🛡️ Decide with Confidence</li>
+          <li>🤝 Partner affidabili</li>
+          <li>🛡️ Decidi con fiducia</li>
           <li>✓ Fonti ufficiali 2026</li>
         </ul>
       </div>
