@@ -94,7 +94,7 @@ Perché la busta non è mai identica: straordinari, festività, rate delle addiz
 
 ### Nella busta paga trovo anche il costo per l'azienda?
 
-No. Il cedolino mostra solo la tua parte: i contributi e le imposte a carico del datore (la fetta più grande dei contributi INPS e l'INAIL) non compaiono. Per questo la tua RAL "costa" all'azienda circa il 30% in più di quanto risulta dal lordo.
+No. Il cedolino mostra solo la tua parte: i contributi e le imposte a carico del datore (la fetta più grande dei contributi INPS e l'INAIL) non compaiono. Per questo la tua RAL "costa" all'azienda circa il 35–40% in più di quanto risulta dal lordo.
 
 ### La busta paga part-time è diversa?
 

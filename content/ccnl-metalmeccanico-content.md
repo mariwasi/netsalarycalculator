@@ -35,13 +35,13 @@ Cosa fa salire di livello non è soltanto "fare bene il proprio lavoro" né solt
 
 Il livello più diffuso in produzione è il C3, ed è quello che il contratto usa come riferimento per calcolare gli aumenti. Se in busta paga trovi ancora un numero vecchio ("5° livello"), la corrispondenza sopra ti dice dove sei finito nella scala nuova — ma verifica che la conversione sia stata fatta correttamente: è proprio nel passaggio ai nuovi livelli che alcune aziende hanno lasciato inquadramenti imprecisi.
 
-- Dettaglio per livello: [LINK: metalmeccanico livello D1], [LINK: metalmeccanico livello D2], [LINK: metalmeccanico livello C1], [LINK: metalmeccanico livello C2], [LINK: metalmeccanico livello C3], [LINK: metalmeccanico livello B1], [LINK: metalmeccanico livello B2], [LINK: metalmeccanico livello B3], [LINK: metalmeccanico livello A1].
+- Dettaglio per livello: le pagine dedicate a ciascun livello sono in preparazione; i minimi per livello sono nella tabella sotto.
 
 ## Il minimo tabellare: la base da cui parte tutto
 
 Ogni livello ha un **minimo tabellare**: la paga base mensile lorda sotto la quale il contratto non consente di scendere. È il pavimento, non lo stipendio: sopra ci si costruisce tutto il resto. I minimi vengono adeguati ogni anno a giugno in base all'inflazione (indice IPCA-NEI, cioè al netto dei beni energetici importati): per questo una tabella trovata online va sempre datata, e una tabella del 2025 non vale nel 2026.
 
-La tabella sotto riporta i minimi in vigore dal **1° giugno 2026** per il CCNL industria, come risultano dal verbale di accordo sottoscritto il 16 giugno 2026 dalle parti sociali e pubblicati dalle sigle firmatarie. Il sistema metalmeccanico livelli prevede dieci livelli, da D1 ad A1, più il Quadro. Il livello D2 metalmeccanico stipendio netto è il più cercato: il netto si ottiene dal minimo di questa tabella con 13 mensilità, e lo stesso vale per D1, C2 e B1. Per il livello D1 metalmeccanico stipendio netto, il punto di partenza è il minimo di 1.784,94 € con 13 mensilità. Il livello C2 metalmeccanico e il livello B1 metalmeccanico si calcolano allo stesso modo, dai loro minimi. Chi ha ancora il vecchio numero in busta paga: il 5 livello metalmeccanico stipendio netto è oggi il livello C3, perché il 5° è diventato C3 nella scala nuova. L'aumento di giugno 2026, per il livello di riferimento C3, è stato di 53,17 euro lordi mensili: l'IPCA-NEI consuntivata per il 2025 (1,9%) è risultata più bassa della previsione (2,46%), quindi l'adeguamento è stato più contenuto di quanto inizialmente stimato. Ulteriori adeguamenti sono previsti a giugno 2027 e giugno 2028, ma i loro importi dipenderanno dall'inflazione effettiva e vanno considerati pianificati, non già acquisiti.
+La tabella sotto riporta i minimi in vigore dal **1° giugno 2026** per il CCNL industria, come risultano dal verbale di accordo sottoscritto il 16 giugno 2026 dalle parti sociali e pubblicati dalle sigle firmatarie. Il sistema metalmeccanico livelli prevede nove livelli, da D1 ad A1: l'A1 è il Quadro. Il livello D2 metalmeccanico stipendio netto è il più cercato: il netto si ottiene dal minimo di questa tabella con 13 mensilità, e lo stesso vale per D1, C2 e B1. Per il livello D1 metalmeccanico stipendio netto, il punto di partenza è il minimo di 1.784,94 € con 13 mensilità. Il livello C2 metalmeccanico e il livello B1 metalmeccanico si calcolano allo stesso modo, dai loro minimi. Chi ha ancora il vecchio numero in busta paga: il 5 livello metalmeccanico stipendio netto è oggi il livello C3, perché il 5° è diventato C3 nella scala nuova. L'aumento di giugno 2026, per il livello di riferimento C3, è stato di 53,17 euro lordi mensili: l'IPCA-NEI consuntivata per il 2025 (1,9%) è risultata più bassa della previsione (2,46%), quindi l'adeguamento è stato più contenuto di quanto inizialmente stimato. Ulteriori adeguamenti sono previsti a giugno 2027 e giugno 2028, ma i loro importi dipenderanno dall'inflazione effettiva e vanno considerati pianificati, non già acquisiti.
 
 | Livello | Minimo lordo mensile dal 1° giugno 2026 |
 |---|---|
@@ -112,7 +112,7 @@ Ecco perché il livello conta, ma non in proporzione diretta. A parità di condi
 
 | RAL illustrativa | Netto mensile medio (13 mensilità) |
 |---|---|
-| 20.000 € | 1.374,19 € |
+| 20.000 € | 1.360,08 € |
 | 25.000 € | 1.667,93 € |
 | 30.000 € | 1.903,85 € |
 | 40.000 € | 2.165,81 € |
@@ -176,7 +176,7 @@ No. Gli straordinari pagano tempo in più, non un ruolo superiore. Un netto alto
 La spiegazione della scala e del calcolo del netto sì — le regole fiscali sono le stesse. Le tabelle dei minimi no: il contratto PMI ha minimi propri, diversi da quelli industria. Verifica sempre il CCNL scritto in busta paga prima di confrontare cifre.
 
 ### Dove trovo il calcolo per il mio livello esatto?
-Nelle pagine di livello collegate sopra ([LINK: metalmeccanico level pages]): ciascuna riprende il calcolo dal lordo al netto per quella posizione. Per le regole fiscali generali, la [guida completa](/come-si-calcola-stipendio-netto/) e la pagina degli [scaglioni IRPEF 2026](/scaglioni-irpef-2026/) restano il riferimento; per il confronto con un altro grande contratto, la pagina sul [CCNL Commercio](/ccnl-commercio/).
+Nelle pagine di livello, quando saranno pronte, ciascuna riprenderà il calcolo dal lordo al netto per quella posizione. Per ora, per il calcolo con il minimo del tuo livello usa il [calcolatore dello stipendio netto](/). Per le regole fiscali generali, la [guida completa](/come-si-calcola-stipendio-netto/) e la pagina degli [scaglioni IRPEF 2026](/scaglioni-irpef-2026/) restano il riferimento; per il confronto con un altro grande contratto, la pagina sul [CCNL Commercio](/ccnl-commercio/).
 
 ## Fonti e aggiornamento
 

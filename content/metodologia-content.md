@@ -44,8 +44,7 @@ dipendente e per familiari a carico, trattamento integrativo e addizionali
 regionale e comunale. Il netto mensile che vedi è una media: il netto
 annuo diviso per il numero di mensilità del contratto (12, 13 o 14).
 Non simula il singolo cedolino mese per mese, con le sue rate delle
-addizionali e il conguaglio di dicembre — per quello c'è la [guida alla
-lettura della busta paga][guida come leggere la busta paga](/come-leggere-la-busta-paga/).
+addizionali e il conguaglio di dicembre — per quello c'è la [guida alla lettura della busta paga](/come-leggere-la-busta-paga/).
 
 Non calcola invece: redditi diversi dal lavoro dipendente (affitti, secondo
 lavoro, redditi finanziari), contributi aggiuntivi specifici di un CCNL
@@ -172,11 +171,12 @@ L'addizionale regionale usa aliquote base diverse per regione:
 |---|---|
 | 0,70% | Friuli-Venezia Giulia |
 | 1,20% | Valle d'Aosta |
-| 1,23% | Lombardia, Liguria, Marche, Sardegna, Umbria, Veneto, Basilicata, Trentino-Alto Adige (incluse le province di Trento e Bolzano) |
+| 1,23% | Lombardia, Liguria, Marche, Sardegna, Sicilia, Umbria, Veneto, Basilicata, Trentino-Alto Adige (incluse le province di Trento e Bolzano) |
 | 1,33% | Emilia-Romagna, Puglia |
 | 1,42% | Toscana |
 | 1,62% | Piemonte |
-| 1,73% | Abruzzo, Lazio, Molise, Sicilia |
+| 1,67% | Abruzzo |
+| 1,73% | Lazio, Molise |
 | 2,03% | Calabria, Campania |
 
 Il calcolatore usa l'aliquota base della regione: alcune regioni applicano
@@ -286,8 +286,7 @@ scoprirle da solo. Queste sono le nostre:
   che cambia tra contratti sono le mensilità (13 o 14), i minimi
   retributivi per livello ed eventuali contributi di categoria: per
   questo abbiamo pagine dedicate ai contratti più diffusi, come il
-  [CCNL Metalmeccanico](/ccnl-metalmeccanico/) e il [CCNL
-  Commercio](/ccnl-commercio/).
+  [CCNL Metalmeccanico](/ccnl-metalmeccanico/) e il [CCNL Commercio](/ccnl-commercio/).
 - **Altri redditi cambiano tutto.** Affitti, secondo lavoro o redditi
   finanziari si sommano nel reddito complessivo e modificano detrazioni e
   risultato finale.
@@ -358,8 +357,7 @@ strumento, non dopo.
 Le mensilità previste (12, 13 o 14), il livello e il minimo retributivo,
 e gli eventuali contributi di categoria che riducono leggermente il
 netto. Il resto del calcolo fiscale non dipende dal contratto: le pagine
-dedicate al [CCNL Metalmeccanico](/ccnl-metalmeccanico/) e al [CCNL
-Commercio](/ccnl-commercio/) riportano i minimi per livello.
+dedicate al [CCNL Metalmeccanico](/ccnl-metalmeccanico/) e al [CCNL Commercio](/ccnl-commercio/) riportano i minimi per livello.
 
 ### Posso utilizzare il risultato per una dichiarazione fiscale?
 No. Il risultato è informativo e non sostituisce una dichiarazione dei

@@ -25,7 +25,7 @@ export const guideFaq = [
   {
     question: "Posso calcolare il netto per la mia situazione specifica?",
     answer:
-      "Sì: il calcolatore in homepage applica tutti i passaggi di questa guida alla tua RAL, regione, mensilità e familiari a carico. Per gli orari ridotti trovi le pagine part-time, per i contratti collettivi le pagine CCNL Metalmeccanico e CCNL Commercio.",
+      "Sì: il calcolatore in homepage applica tutti i passaggi di questa guida alla tua RAL, regione, mensilità e familiari a carico. Per gli orari ridotti il netto è proporzionale alle ore lavorate, per i contratti collettivi le pagine CCNL Metalmeccanico e CCNL Commercio.",
   },
 ] as const;
 
@@ -241,7 +241,7 @@ export function GuideArticle() {
             <strong className="text-[#16302A]">Redditi tra 20.000 e 40.000 euro — detrazione aggiuntiva.</strong> Invece della somma esclusa spetta una detrazione dall&apos;IRPEF di <strong className="text-[#16302A]">1.000 euro</strong> per redditi fino a 32.000 euro, che poi si riduce in proporzione fino ad azzerarsi a 40.000 euro (a 36.000 euro, ad esempio, vale 500 euro).
           </P>
           <P>
-            Il risultato pratico è che sulle retribuzioni più basse la trattenuta fiscale effettiva risulta molto contenuta: con una RAL di 20.000 euro, ad esempio, il netto annuo supera i 17.800 euro, pari a quasi il 90% del lordo.
+            Il risultato pratico è che sulle retribuzioni più basse la trattenuta fiscale effettiva risulta molto contenuta: con una RAL di 20.000 euro, ad esempio, il netto annuo è di circa 17.681 euro, pari a circa l'88% del lordo.
           </P>
 
           <H2 id="passaggio-3-l-irpef-e-gli-scaglioni-2026">Passaggio 3: l&apos;IRPEF e gli scaglioni 2026</H2>
@@ -348,11 +348,12 @@ export function GuideArticle() {
             rows={[
               ["0,70%", "Friuli-Venezia Giulia"],
               ["1,20%", "Valle d'Aosta"],
-              ["1,23%", "Basilicata, Liguria, Lombardia, Marche, Sardegna, Trentino-Alto Adige, Umbria, Veneto"],
+              ["1,23%", "Basilicata, Liguria, Lombardia, Marche, Sardegna, Sicilia, Trentino-Alto Adige, Umbria, Veneto"],
               ["1,33%", "Emilia-Romagna, Puglia"],
               ["1,42%", "Toscana"],
               ["1,62%", "Piemonte"],
-              ["1,73%", "Abruzzo, Lazio, Molise, Sicilia"],
+              ["1,67%", "Abruzzo"],
+              ["1,73%", "Lazio, Molise"],
               ["2,03%", "Calabria, Campania"],
             ]}
           />
@@ -556,7 +557,7 @@ export function GuideArticle() {
                 <summary className="cursor-pointer font-extrabold text-[#16302A]">{item.question}</summary>
                 {item.question === "Posso calcolare il netto per la mia situazione specifica?" ? (
                   <p className="mt-2.5 text-base leading-relaxed text-[#334155]">
-                    Sì: il <Link href="/" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">calcolatore in homepage</Link> applica tutti i passaggi di questa guida alla tua RAL, regione, mensilità e familiari a carico. Per gli orari ridotti trovi le pagine part-time, per i contratti collettivi le pagine <Link href="/ccnl-metalmeccanico" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">CCNL Metalmeccanico</Link> e <Link href="/ccnl-commercio" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">CCNL Commercio</Link>.
+                    Sì: il <Link href="/" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">calcolatore in homepage</Link> applica tutti i passaggi di questa guida alla tua RAL, regione, mensilità e familiari a carico. Per gli orari ridotti il netto è proporzionale alle ore lavorate, per i contratti collettivi le pagine <Link href="/ccnl-metalmeccanico" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">CCNL Metalmeccanico</Link> e <Link href="/ccnl-commercio" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">CCNL Commercio</Link>.
                   </p>
                 ) : (
                   <p className="mt-2.5 text-base leading-relaxed text-[#334155]">{item.answer}</p>
