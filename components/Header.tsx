@@ -102,10 +102,10 @@ export function Header() {
       <div className="mx-auto flex h-32 w-full max-w-6xl items-center justify-between px-4 sm:px-6">
         <a
           href="#inizio"
-          className="group flex flex-col items-start gap-1 rounded-2xl px-3 py-1 text-sm font-bold tracking-tight text-forest focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 md:w-1/5 md:shrink-0"
+          className="group flex flex-col items-start gap-0.5 rounded-2xl px-3 py-1 text-sm font-bold tracking-tight text-forest focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 md:w-1/5 md:shrink-0"
         >
-          <span className="h-[88px] w-[88px] overflow-hidden rounded-full transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] active:translate-y-0 active:scale-[0.98]">
-            <Image src="/logo.webp" alt="StipendioNetto — logo" width={88} height={88} className="h-[88px] w-[88px] object-cover" priority />
+          <span className="h-24 w-24 overflow-hidden rounded-full transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] active:translate-y-0 active:scale-[0.98]">
+            <Image src="/logo.webp" alt="StipendioNetto — logo" width={96} height={96} className="h-24 w-24 object-cover" priority />
           </span>
           <span className="transition-colors duration-200 group-hover:text-lime">StipendioNetto</span>
         </a>
