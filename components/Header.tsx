@@ -99,10 +99,10 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-white/95 backdrop-blur">
-      <div className="mx-auto flex h-32 w-full max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
+      <div className="mx-auto flex h-32 w-full max-w-6xl items-center justify-between px-4 sm:px-6">
         <a
           href="#inizio"
-          className="inline-flex flex-col items-center gap-1 rounded-2xl px-3 py-1 text-[1.05rem] font-bold tracking-tight text-forest transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98]"
+          className="flex flex-col items-start gap-1 rounded-2xl px-3 py-1 text-[1.05rem] font-bold tracking-tight text-forest transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98] md:w-1/5 md:shrink-0"
         >
           <span className="h-20 w-20 overflow-hidden rounded-full">
             <Image src="/logo.webp" alt="StipendioNetto — logo" width={80} height={80} className="h-20 w-20 object-cover" priority />
@@ -110,7 +110,7 @@ export function Header() {
           StipendioNetto
         </a>
 
-        <nav className="hidden items-center gap-4 whitespace-nowrap lg:gap-6 md:flex" aria-label="Sezioni della pagina">
+        <nav className="hidden w-3/5 shrink-0 items-center justify-center gap-4 whitespace-nowrap lg:gap-6 md:flex" aria-label="Sezioni della pagina">
           {links.map((link) => (
             <Link key={link.href} href={link.href} className="whitespace-nowrap text-sm font-extrabold text-forest hover:text-lime">
               {link.label}
@@ -158,7 +158,7 @@ export function Header() {
           </div>
         </nav>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center justify-end gap-2 md:w-1/5 md:shrink-0">
           <Link href="/#calcolatore" className={`hidden sm:inline-flex md:hidden lg:inline-flex ${ctaClass}`}>
             Vai al calcolatore
           </Link>
