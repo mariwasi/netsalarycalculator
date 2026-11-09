@@ -99,7 +99,7 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-white/95 backdrop-blur">
-      <div className="mx-auto flex h-36 w-full max-w-6xl items-center justify-between px-4 sm:px-6">
+      <div className="mx-auto flex h-36 w-full max-w-[1145px] items-center justify-between px-4 sm:px-6">
         <a
           href="#inizio"
           className="group flex flex-col items-start gap-0.5 rounded-2xl px-3 py-1 text-sm font-bold tracking-tight text-forest focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 md:w-1/5 md:shrink-0"
