@@ -28,9 +28,9 @@ export function HomepageArticle() {
           </ul>
         </nav>
         <div className="mt-5 rounded-[20px] border border-line bg-white px-5 py-8 text-[15px] leading-7 text-ink shadow-[0_8px_28px_rgba(0,76,63,0.05)] sm:px-10">
-          <h1 className="text-[1.75rem] leading-snug font-bold tracking-tight">
-            Calcolo stipendio netto 2026: da lordo a netto in pochi secondi
-          </h1>
+          <h2 className="text-[1.75rem] leading-snug font-bold tracking-tight">
+            Calcolo stipendio netto 2026: da lordo a netto in un minuto
+          </h2>
           <article>
             <h2 id="che-cos-e" className={heading}>Che cos’è lo stipendio netto?</h2>
             <p className="mt-2">

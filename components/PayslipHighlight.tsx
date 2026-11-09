@@ -5,8 +5,8 @@ const ROWS = [
   { label: "Lordo mensile", value: "2.307,69 €" },
   { label: "INPS (9,19%)", value: "− 212,08 €", tone: "neg" as const },
   { label: "IRPEF", value: "− 247,82 €", tone: "neg" as const },
-  { label: "Addizionali", value: "− 42,85 €", tone: "neg" as const },
-  { label: "Bonus", value: "+ 100,00 €", tone: "pos" as const },
+  { label: "Addizionali", value: "− 36,25 €", tone: "neg" as const },
+  { label: "Bonus", value: "+ 92,31 €", tone: "pos" as const },
 ];
 
 export function PayslipHighlight() {
@@ -27,7 +27,7 @@ export function PayslipHighlight() {
         ))}
         <p className="flex justify-between pt-3.5 text-lg font-black text-forest">
           <span>Netto in busta</span>
-          <span>1.904,94 €</span>
+          <span>1.903,85 €</span>
         </p>
         <svg viewBox="0 0 260 60" className="mt-3.5 h-[60px] w-full" aria-hidden="true">
           <polyline
