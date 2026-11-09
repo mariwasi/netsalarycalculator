@@ -25,7 +25,7 @@ const guideLinks = [
 ];
 
 const ctaClass =
-  "rounded-full bg-forest px-4 py-2 text-sm font-semibold text-white transition duration-200 ease-out hover:-translate-y-0.5 hover:bg-forest-deep hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98] active:shadow-[0_6px_14px_rgba(0,76,63,0.25)]";
+  "rounded-full bg-forest px-4 py-2 text-sm font-bold text-white transition duration-200 ease-out hover:-translate-y-0.5 hover:bg-forest-deep hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98] active:shadow-[0_6px_14px_rgba(0,76,63,0.25)]";
 
 export function Header() {
   const [open, setOpen] = useState(false);
@@ -99,20 +99,20 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-white/95 backdrop-blur">
-      <div className="mx-auto flex h-16 w-full max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
+      <div className="mx-auto flex h-24 w-full max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
         <a
           href="#inizio"
-          className="inline-flex items-center gap-2 rounded-full py-1 pl-1 pr-3 text-[1.05rem] font-bold tracking-tight text-forest transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98]"
+          className="inline-flex flex-col items-center gap-1 rounded-2xl px-3 py-1 text-[1.05rem] font-bold tracking-tight text-forest transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98]"
         >
-          <span className="h-9 w-9 overflow-hidden rounded-full">
-            <Image src="/logo.webp" alt="StipendioNetto — logo" width={36} height={36} className="h-9 w-9 object-cover" priority />
+          <span className="h-14 w-14 overflow-hidden rounded-full">
+            <Image src="/logo.webp" alt="StipendioNetto — logo" width={56} height={56} className="h-14 w-14 object-cover" priority />
           </span>
           StipendioNetto
         </a>
 
         <nav className="hidden items-center gap-4 whitespace-nowrap lg:gap-6 md:flex" aria-label="Sezioni della pagina">
           {links.map((link) => (
-            <Link key={link.href} href={link.href} className="whitespace-nowrap text-sm font-medium text-forest hover:text-lime">
+            <Link key={link.href} href={link.href} className="whitespace-nowrap text-sm font-bold text-forest hover:text-lime">
               {link.label}
             </Link>
           ))}
@@ -127,7 +127,7 @@ export function Header() {
             <button
               ref={desktopButtonRef}
               type="button"
-              className="inline-flex items-center gap-1 text-sm font-medium text-forest hover:text-lime"
+              className="inline-flex items-center gap-1 text-sm font-bold text-forest hover:text-lime"
               aria-expanded={guideOpen}
               aria-haspopup="true"
               aria-controls={desktopMenuId}
@@ -187,7 +187,7 @@ export function Header() {
           <ul className="flex flex-col">
             {links.map((link) => (
               <li key={link.href}>
-                <Link href={link.href} className="block py-2.5 text-sm font-medium text-forest" onClick={closeMenus}>
+                <Link href={link.href} className="block py-2.5 text-sm font-bold text-forest" onClick={closeMenus}>
                   {link.label}
                 </Link>
               </li>
@@ -201,7 +201,7 @@ export function Header() {
                 <button
                   ref={mobileButtonRef}
                   type="button"
-                  className="flex w-full items-center justify-between py-2.5 text-left text-sm font-medium text-forest"
+                  className="flex w-full items-center justify-between py-2.5 text-left text-sm font-bold text-forest"
                   aria-expanded={guideOpen}
                   aria-haspopup="true"
                   aria-controls={mobileGuideId}
