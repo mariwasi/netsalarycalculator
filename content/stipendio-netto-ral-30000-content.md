@@ -11,7 +11,7 @@ Le ipotesi degli esempi di questa pagina: dipendente del settore privato, contra
 
 ## Quanto è il netto di 30.000 € di RAL?
 
-A quanto corrisponde una RAL di 30000? Dipende da due cose: la regione di residenza e il numero di mensilità. Con le ipotesi di questa pagina (Lombardia, 13 mensilità), il conto è questo:
+A quanto corrisponde una RAL di 30000? Dipende da due cose: la regione di residenza e il numero di mensilità. Il valore di riferimento per una RAL 30.000 stipendio netto è 1.903,85 € al mese (Lombardia, 13 mensilità). 30000 lordi quanto sono netti? 1.903,85 € al mese con 13 mensilità, 2.062,51 € con 12 e 1.767,86 € con 14 — il netto annuo non cambia. Con le ipotesi di questa pagina (Lombardia, 13 mensilità), il conto è questo:
 
 | Mensilità | Netto mensile | Netto annuo |
 |---|---|---|
@@ -74,11 +74,11 @@ Come leggere la tabella: l'addizionale regionale è calcolata con l'**aliquota b
 
 ## 12, 13 o 14 mensilità: cosa cambia per una RAL di 30.000 €
 
-Il numero di mensilità dipende dal contratto, e con una RAL di 30.000 € la differenza si sente: a 12 mensilità prendi **2.062,51 €** al mese, a 13 mensilità **1.903,85 €**, a 14 mensilità **1.767,86 €** — ma il netto annuo resta sempre **24.750,10 €**. Le due domande che contano di più sono quelle sui contratti più diffusi: **ral 30000 metalmeccanico netto** — il [CCNL Metalmeccanico](/ccnl-metalmeccanico/) prevede 13 mensilità, quindi 1.903,85 € al mese; **ral 30000 ccnl commercio netto** — il [CCNL Commercio](/ccnl-commercio/) prevede 14 mensilità, quindi 1.767,86 € al mese. Stessa RAL, stesso netto annuo, rate diverse. La tredicesima (e la quattordicesima) non sono un extra: sono dentro la RAL, come spiega la pagina sul [calcolo della RAL](/calcolo-ral/).
+Il numero di mensilità dipende dal contratto, e con una RAL di 30.000 € la differenza si sente: a 12 mensilità prendi **2.062,51 €** al mese, a 13 mensilità **1.903,85 €**, a 14 mensilità **1.767,86 €** — ma il netto annuo resta sempre **24.750,10 €**. RAL 30000 quanto netto con 14 mensilità? 1.767,86 € al mese; con 13 mensilità, 1.903,85 € al mese. Le due domande che contano di più sono quelle sui contratti più diffusi: **ral 30000 metalmeccanico netto** — il [CCNL Metalmeccanico](/ccnl-metalmeccanico/) prevede 13 mensilità, quindi 1.903,85 € al mese; **ral 30000 ccnl commercio netto** — il [CCNL Commercio](/ccnl-commercio/) prevede 14 mensilità, quindi 1.767,86 € al mese. Stessa RAL, stesso netto annuo, rate diverse. La tredicesima (e la quattordicesima) non sono un extra: sono dentro la RAL, come spiega la pagina sul [calcolo della RAL](/calcolo-ral/).
 
 ## Importi vicini e guida alla RAL
 
-Se la tua RAL non è 30.000 €, i valori vicini sono: RAL 25.000 € → 1.667,93 € al mese; RAL 35.000 € → 2.014,74 € al mese (Lombardia, 13 mensilità, nessun familiare a carico). Le pagine dedicate a questi importi sono in preparazione. Per capire cos'è la RAL, cosa include e come si converte in netto in cinque passaggi, leggi la guida [calcolo RAL](/calcolo-ral/); per applicare il calcolo alla tua RAL, alla tua regione e alle tue mensilità, usa il [calcolatore dello stipendio netto](/) e confronta il dettaglio voce per voce con l'esempio di questa pagina.
+Se la tua RAL non è 30.000 €, i valori vicini sono: RAL 25.000 € → 1.667,93 € al mese (pagina in preparazione); [RAL 28.000 € → 1.811,49 € al mese](/stipendio-netto-ral-28000/); RAL 35.000 € → 2.014,74 € al mese (pagina in preparazione) (Lombardia, 13 mensilità, nessun familiare a carico). Per capire cos'è la RAL, cosa include e come si converte in netto in cinque passaggi, leggi la guida [calcolo RAL](/calcolo-ral/); per applicare il calcolo alla tua RAL, alla tua regione e alle tue mensilità, usa il [calcolatore dello stipendio netto](/) e confronta il dettaglio voce per voce con l'esempio di questa pagina.
 
 ## Domande frequenti su RAL 30.000 €
 

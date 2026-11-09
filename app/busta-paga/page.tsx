@@ -7,9 +7,9 @@ import { Header } from "@/components/Header";
 import { parseEditorial } from "@/lib/editorial/parse";
 import { SITE_URL } from "@/lib/seo";
 
-const title = "Busta Paga: Cos'è, Come è Fatta e Tutte le Voci Spiegate | StipendioNetto";
+const title = "Busta Paga: Cos'è, Come è Fatta e le Voci Spiegate";
 const description =
-  "La busta paga spiegata semplice: le 4 sezioni del cedolino, tutte le voci una per una, la differenza con la Certificazione Unica e gli errori da controllare ogni mese.";
+  "La busta paga spiegata semplice: le 4 sezioni del cedolino, tutte le voci una per una e gli errori da controllare ogni mese.";
 const canonical = `${SITE_URL}/busta-paga`;
 const doc = parseEditorial(readFileSync(path.join(process.cwd(), "content", "busta-paga-content.md"), "utf8"));
 
@@ -28,7 +28,7 @@ export default function BustaPagaPage() {
       <main id="inizio">
         <EditorialPage
           doc={doc}
-          subline="Ma la busta paga (o cedolino) è molto di più di un avviso di accredito: è il documento ufficiale che racconta il tuo rapporto di lavoro, voce per voce."
+          subline="La busta paga è il documento che certifica quanto guadagni e quanto ti viene trattenuto: 4 sezioni — testata, competenze, trattenute, riepiloghi — e tutte le voci spiegate, una per una."
           stats={[
             { value: "9,19%", label: "Contributi INPS nel privato", tone: "dark" },
             { value: "10,33 €", label: "EDR al mese", tone: "lime" },

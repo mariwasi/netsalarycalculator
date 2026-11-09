@@ -28,7 +28,7 @@ export default function CcnlMetalmeccanicoPage() {
       <main id="inizio">
         <EditorialPage
           doc={doc}
-          subline="Se lavori in un'azienda metalmeccanica, quasi tutto quello che conta nella tua busta paga passa da una sigla: il tuo livello."
+          subline="Il CCNL Metalmeccanico ha 10 livelli (D1–A1): i minimi di giugno 2026 vanno da 1.784,94 € (D1) a 2.907,01 € (A1). Trova il tuo livello e il netto."
           stats={[
             { value: "22 novembre 2025", label: "Rinnovo Federmeccanica-Assistal, FIM-FIOM-UILM", tone: "dark" },
             { value: "30 giugno 2028", label: "Il contratto copre il periodo fino a questa data", tone: "lime" },

@@ -1,8 +1,8 @@
 <!--
   INSTRUCTIONS FOR CURSOR (not page content):
   Page: /come-leggere-la-busta-paga/ (blog/guide, companion to /busta-paga/)
-  Title tag: Come Leggere la Busta Paga: Guida Passo Passo con Esempio | StipendioNetto
-  Meta description: Come leggere la busta paga in 6 passi: testata, presenze, competenze, trattenute INPS e IRPEF, progressivi e TFR. Con un esempio numerico completo e la checklist di verifica in 5 minuti.
+  Title tag: Come Leggere la Busta Paga: Guida Passo Passo
+  Meta description: Come leggere la busta paga in 6 passi: testata, presenze, competenze, trattenute e TFR. Esempio numerico completo e checklist in 5 minuti.
   H1: first heading below. The worked example uses the site's verified case
   (RAL 30.000, 13 mensilita, Lombardia): monthly figures are the consistent
   monthly view of the hand-verified annual totals (netto annuo 24.750,10,
@@ -11,7 +11,7 @@
 
 # Come leggere la busta paga: la guida passo passo, con un esempio vero
 
-La busta paga media contiene più di quaranta voci. Non serve capirle tutte: serve sapere **dove guardare** e **quali numeri devono tornare**. Questa guida ti porta dentro un cedolino vero, sezione per sezione, con un esempio numerico che puoi seguire con la tua busta alla mano. Alla fine trovi la checklist da cinque minuti da ripetere ogni mese.
+La busta paga media contiene più di quaranta voci busta paga. Non serve capirle tutte: serve sapere **dove guardare** e **quali numeri devono tornare**. Questa guida ti porta dentro un busta paga esempio vero, sezione per sezione, con un esempio numerico che puoi seguire con la tua busta alla mano. Alla fine trovi la checklist da cinque minuti da ripetere ogni mese.
 
 Un'avvertenza prima di iniziare: non esiste un formato unico. Il tuo cedolino può essere impaginato in modo diverso da quello di un collega di un'altra azienda, perché dipende dal software paghe. Ma le sezioni sono sempre le stesse quattro — testata, competenze, trattenute, riepiloghi — e i controlli che contano sono sempre questi.
 

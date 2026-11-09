@@ -11,7 +11,7 @@ Le ipotesi degli esempi di questa pagina: dipendente del settore privato, contra
 
 ## Quanto è il netto di 28.000 € di RAL?
 
-A quanto corrisponde una RAL di 28000? Dipende da due cose: la regione di residenza e il numero di mensilità. Con le ipotesi di questa pagina (Lombardia, 13 mensilità), il conto è questo:
+A quanto corrisponde una RAL di 28000? Dipende da due cose: la regione di residenza e il numero di mensilità. Il valore di riferimento per una RAL 28.000 stipendio netto è 1.811,49 € al mese (Lombardia, 13 mensilità). 28.000 euro lordi quanto sono netti? 1.811,49 € al mese con 13 mensilità, 1.962,44 € con 12 e 1.682,09 € con 14 — il netto annuo non cambia. RAL di 28000 euro lordi quanto sono netti, in sintesi: 23.549,31 € l'anno, divisi per le mensilità del contratto. Con le ipotesi di questa pagina (Lombardia, 13 mensilità), il conto è questo:
 
 | Mensilità | Netto mensile | Netto annuo |
 |---|---|---|
@@ -74,7 +74,7 @@ Come leggere la tabella: l'addizionale regionale è calcolata con l'**aliquota b
 
 ## 12, 13 o 14 mensilità: cosa cambia per una RAL di 28.000 €
 
-Il numero di mensilità dipende dal contratto, e con una RAL di 28.000 € la differenza si sente: a 12 mensilità prendi **1.962,44 €** al mese, a 13 mensilità **1.811,49 €**, a 14 mensilità **1.682,09 €** — ma il netto annuo resta sempre **23.549,31 €**. Le due domande che contano di più sono quelle sui contratti più diffusi: **ral 28000 ccnl commercio netto** — il [CCNL Commercio](/ccnl-commercio/) prevede 14 mensilità, quindi 1.682,09 € al mese; il [CCNL Metalmeccanico](/ccnl-metalmeccanico/) prevede 13 mensilità, quindi 1.811,49 € al mese. Stessa RAL, stesso netto annuo, rate diverse. Per chi cerca il valore per una mensilità precisa: **ral 28000 stipendio netto 13 mensilità** è 1.811,49 € al mese, **ral 28000 stipendio netto 14 mensilità** è 1.682,09 € al mese. La tredicesima (e la quattordicesima) non sono un extra: sono dentro la RAL, come spiega la pagina sul [calcolo della RAL](/calcolo-ral/).
+Il numero di mensilità dipende dal contratto, e con una RAL di 28.000 € la differenza si sente: a 12 mensilità prendi **1.962,44 €** al mese, a 13 mensilità **1.811,49 €**, a 14 mensilità **1.682,09 €** — ma il netto annuo resta sempre **23.549,31 €**. RAL 28000 quanto netto con 14 mensilità? 1.682,09 € al mese; con 13 mensilità, 1.811,49 € al mese. In breve, 28000 RAL netto è 1.811,49 € al mese con 13 mensilità. Le due domande che contano di più sono quelle sui contratti più diffusi: **ral 28000 ccnl commercio netto** — il [CCNL Commercio](/ccnl-commercio/) prevede 14 mensilità, quindi 1.682,09 € al mese; il [CCNL Metalmeccanico](/ccnl-metalmeccanico/) prevede 13 mensilità, quindi 1.811,49 € al mese. Stessa RAL, stesso netto annuo, rate diverse. Per chi cerca il valore per una mensilità precisa: **ral 28000 stipendio netto 13 mensilità** è 1.811,49 € al mese, **ral 28000 stipendio netto 14 mensilità** è 1.682,09 € al mese. La tredicesima (e la quattordicesima) non sono un extra: sono dentro la RAL, come spiega la pagina sul [calcolo della RAL](/calcolo-ral/).
 
 ## Importi vicini e guida alla RAL
 

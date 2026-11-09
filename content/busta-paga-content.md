@@ -1,8 +1,8 @@
 <!--
   INSTRUCTIONS FOR CURSOR (not page content):
   Page: /busta-paga/
-  Title tag: Busta Paga: Cos'è, Come è Fatta e Tutte le Voci Spiegate | StipendioNetto
-  Meta description: La busta paga spiegata semplice: le 4 sezioni del cedolino, tutte le voci una per una, la differenza con la Certificazione Unica e gli errori da controllare ogni mese.
+  Title tag: Busta Paga: Cos'è, Come è Fatta e le Voci Spiegate
+  Meta description: La busta paga spiegata semplice: le 4 sezioni del cedolino, tutte le voci una per una e gli errori da controllare ogni mese.
   H1: first heading below. Internal links marked in text. Companion guide:
   /come-leggere-la-busta-paga/ (step-by-step reading guide with worked example).
   Figures consistent with the verified RAL 30.000 example used across the site.
@@ -12,7 +12,7 @@
 
 Ogni mese la apri, guardi l'ultima riga — il netto — e la chiudi. È quello che fa quasi chiunque. Ma la **busta paga** (o cedolino) è molto di più di un avviso di accredito: è il documento ufficiale che racconta il tuo rapporto di lavoro, voce per voce. Dentro ci sono il tuo livello, i tuoi scatti, le ferie che hai maturato, il TFR che stai accumulando e le tasse che stai pagando. Se da qualche parte c'è un errore — e gli errori in busta paga esistono, quasi sempre in buona fede — l'unico modo per accorgersene è saperla leggere.
 
-Questa pagina ti spiega com'è fatta e cosa significa ogni voce. Se invece vuoi la procedura pratica, mese per mese, vai alla guida passo passo: [come leggere la busta paga](/come-leggere-la-busta-paga/).
+Questa pagina ti spiega com'è fatta e cosa significa ogni voce. Se invece vuoi imparare come leggere buste paga, mese per mese, vai alla guida passo passo: [come leggere la busta paga](/come-leggere-la-busta-paga/) — con un busta paga esempio compilato, voce per voce.
 
 ## Cos'è la busta paga e perché è obbligatoria
 
@@ -43,6 +43,8 @@ Qui avviene la trasformazione che interessa a tutti. Prima i **contributi INPS**
 L'ultima zona è una miniera di informazioni che quasi nessuno guarda: i **progressivi annui** (imponibile e IRPEF da gennaio a oggi), la quota di **TFR** maturata nel mese e quella accumulata, i contatori di **ferie e permessi** (maturati, goduti, residui), la banca ore. Sono i numeri che ti servono quando vuoi verificare che tutto torni, senza aspettare la fine dell'anno.
 
 ## Le voci principali, una per una
+
+Le voci busta paga sono tante, ma quelle che contano davvero sono poche: questa tabella spiega le principali, una per una, con il codice che trovi sul cedolino.
 
 | Voce | Cosa significa |
 |---|---|

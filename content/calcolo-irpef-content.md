@@ -3,7 +3,7 @@
 > Title tag: Calcolo IRPEF 2026: Formula, Aliquote ed Esempi
 > Meta description: Scopri come calcolare l'IRPEF nel 2026: reddito imponibile, scaglioni, detrazioni e addizionali, con formula ed esempi pratici.
 
-# Come si calcola l'IRPEF: la guida completa 2026, con esempi veri
+# Calcolo IRPEF: come si calcola, la guida completa 2026 con esempi veri
 
 L'IRPEF è l'imposta che pesa di più sulla busta paga, ed è anche quella che
 viene spiegata peggio. La frase che si sente più spesso — "pago il 33%" oppure
@@ -121,8 +121,7 @@ completo: RC 27.243 €. La formula della seconda fascia dà
 **2.044,29 €**. Nota il meccanismo: più il reddito si avvicina ai 28.000 €,
 più la parte variabile si assottiglia, finché a 28.000 € resta solo la base
 di 1.910 € (più gli eventuali 65 € di maggiorazione, che a quel livello di
-reddito spettano).
-rapidamente verso zero, che raggiunge a 50.000 €.
+reddito spettano). Oltre i 28.000 €, la detrazione scende rapidamente verso zero, che raggiunge a 50.000 €.
 
 ## Il taglio del cuneo fiscale: la detrazione che molti dimenticano
 

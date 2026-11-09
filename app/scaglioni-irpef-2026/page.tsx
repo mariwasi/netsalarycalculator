@@ -7,9 +7,9 @@ import { Header } from "@/components/Header";
 import { parseEditorial } from "@/lib/editorial/parse";
 import { SITE_URL } from "@/lib/seo";
 
-const title = "Scaglioni IRPEF 2026: Tabella, Aliquote e Calcolo | StipendioNetto";
+const title = "Scaglioni IRPEF 2026: Tabella, Aliquote e Calcolo";
 const description =
-  "Scaglioni IRPEF 2026 aggiornati: 23% fino a 28.000 €, 33% fino a 50.000 €, 43% oltre. Tabella completa, confronto con il 2025, aliquota media per ogni reddito ed esempi di calcolo verificati.";
+  "Scaglioni IRPEF 2026: 23% fino a 28.000 €, 33% fino a 50.000 €, 43% oltre. Tabella completa, confronto con il 2025 ed esempi di calcolo verificati.";
 const canonical = `${SITE_URL}/scaglioni-irpef-2026`;
 const doc = parseEditorial(readFileSync(path.join(process.cwd(), "content", "scaglioni-content.md"), "utf8"));
 

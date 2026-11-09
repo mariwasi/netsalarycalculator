@@ -172,7 +172,7 @@ export function GuideArticle() {
             Come si calcola lo stipendio netto: la guida completa 2026
           </H2>
           <P>
-            Sapere come si arriva dal lordo al netto non serve solo a controllare la busta paga: serve a valutare un&apos;offerta di lavoro, a capire quanto vale davvero un aumento e a non farsi sorprendere dal conguaglio di fine anno. In questa guida percorriamo il calcolo completo, passaggio per passaggio, con le regole in vigore nel 2026 e due esempi numerici svolti fino all&apos;ultimo centesimo.
+            Sapere come si arriva dal lordo al netto non serve solo a controllare la busta paga: serve a valutare un&apos;offerta di lavoro, a capire quanto vale davvero un aumento e a non farsi sorprendere dal conguaglio di fine anno. In questa guida percorriamo il calcolo stipendio netto completo, passaggio per passaggio, con le regole in vigore nel 2026 e due esempi numerici svolti fino all&apos;ultimo centesimo.
           </P>
           <P>La formula, in sintesi, è questa:</P>
           <P>

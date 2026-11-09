@@ -266,12 +266,21 @@ export function EditorialPage({
 export function EditorialJsonLd({ doc }: { doc: EditorialDoc }): ReactNode {
   const data = {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: doc.faqs.map((item) => ({
-      "@type": "Question",
-      name: item.question,
-      acceptedAnswer: { "@type": "Answer", text: item.answer },
-    })),
+    "@graph": [
+      {
+        "@type": "Article",
+        headline: doc.title,
+        inLanguage: "it",
+      },
+      {
+        "@type": "FAQPage",
+        mainEntity: doc.faqs.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: { "@type": "Answer", text: item.answer },
+        })),
+      },
+    ],
   };
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }} />;
 }

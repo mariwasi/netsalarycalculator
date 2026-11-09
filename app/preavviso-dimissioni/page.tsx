@@ -28,7 +28,7 @@ export default function PreavvisoDimissioniPage() {
       <main id="inizio">
         <EditorialPage
           doc={doc}
-          subline="La risposta dipende dal preavviso di dimissioni: il periodo che deve passare tra la comunicazione delle dimissioni e l'ultimo giorno di lavoro."
+          subline="Il preavviso per le dimissioni volontarie dipende dal CCNL e dall'anzianità: ecco come si contano i giorni, come si calcola la data di uscita e quanto ti costa saltarlo."
           stats={[
             { value: "2.307,69 €", label: "Lordo circa per 30 giorni saltati", tone: "dark" },
             { value: "1.153,85 €", label: "Lordo circa per 15 giorni saltati", tone: "lime" },

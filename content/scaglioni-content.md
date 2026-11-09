@@ -1,8 +1,8 @@
 <!--
   INSTRUCTIONS FOR CURSOR (not page content):
   Page: /scaglioni-irpef-2026/
-  Title tag: Scaglioni IRPEF 2026: Tabella, Aliquote e Calcolo | StipendioNetto
-  Meta description: Scaglioni IRPEF 2026 aggiornati: 23% fino a 28.000 €, 33% fino a 50.000 €, 43% oltre. Tabella completa, confronto con il 2025, aliquota media per ogni reddito ed esempi di calcolo verificati.
+  Title tag: Scaglioni IRPEF 2026: Tabella, Aliquote e Calcolo
+  Meta description: Scaglioni IRPEF 2026: 23% fino a 28.000 €, 33% fino a 50.000 €, 43% oltre. Tabella completa, confronto con il 2025 ed esempi di calcolo verificati.
   H1: first heading below. Place the mini-calculator CTA / link to the homepage calculator
   after the first table. Internal links are marked in the text.
   Every figure in this page has been hand-verified against the 2026 brackets
@@ -63,7 +63,7 @@ Nota la prima colonna: fino a 28.000 euro l'aliquota media coincide con quella m
 
 ## Scaglioni 2026 contro 2025: cosa cambia davvero
 
-L'unica variazione rispetto al 2025 è il secondo scaglione, sceso dal 35% al 33%. Soglie e altre aliquote sono invariate.
+Chi confronta gli scaglioni IRPEF 2025 con quelli del 2026 trova una sola variazione: il secondo scaglione, sceso dal 35% al 33%. Soglie e altre aliquote sono invariate. L'aliquota IRPEF 2025 del secondo scaglione era il 35%; nel 2026 è il 33%. Per il calcolo IRPEF 2025, l'imposta cumulata a 50.000 € era 14.140 €; con gli scaglioni IRPEF 2026 è 13.700 €.
 
 | Scaglione | Aliquota 2025 | Aliquota 2026 |
 |---|---|---|

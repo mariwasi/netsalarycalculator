@@ -12,7 +12,7 @@ dimissioni e l'ultimo giorno di lavoro. Non è un numero unico uguale per tutti,
 sbagliare il conto può costarti una trattenuta nell'ultima busta paga. In questa
 pagina trovi come funziona, da che cosa dipende la sua durata, come si contano i
 giorni, che cosa succede se non lo rispetti e che cosa ti spetta alla fine del
-rapporto — con esempi in euro calcolati sul caso che usiamo in tutto il sito.
+rapporto — con esempi in euro calcolati sul caso che usiamo in tutto il sito. Questa guida spiega le dimissioni volontarie e il preavviso: quanto preavviso per dimissioni devi dare, quanti giorni di preavviso servono, come si calcola il preavviso di dimissioni e quanto ti costa saltarlo, anche per il preavviso dimissioni metalmeccanico e per gli altri CCNL.
 
 ## Cos'è il preavviso e perché esiste
 

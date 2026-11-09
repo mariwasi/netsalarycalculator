@@ -7,9 +7,9 @@ import { Header } from "@/components/Header";
 import { parseEditorial } from "@/lib/editorial/parse";
 import { SITE_URL } from "@/lib/seo";
 
-const title = "Come Leggere la Busta Paga: Guida Passo Passo con Esempio | StipendioNetto";
+const title = "Come Leggere la Busta Paga: Guida Passo Passo";
 const description =
-  "Come leggere la busta paga in 6 passi: testata, presenze, competenze, trattenute INPS e IRPEF, progressivi e TFR. Con un esempio numerico completo e la checklist di verifica in 5 minuti.";
+  "Come leggere la busta paga in 6 passi: testata, presenze, competenze, trattenute e TFR. Esempio numerico completo e checklist in 5 minuti.";
 const canonical = `${SITE_URL}/come-leggere-la-busta-paga`;
 const doc = parseEditorial(readFileSync(path.join(process.cwd(), "content", "come-leggere-busta-paga-content.md"), "utf8"));
 
@@ -28,7 +28,7 @@ export default function ComeLeggereLaBustaPagaPage() {
       <main id="inizio">
         <EditorialPage
           doc={doc}
-          subline="Non serve capirle tutte: serve sapere dove guardare e quali numeri devono tornare."
+          subline="Per leggere la busta paga bastano 6 passi: testata, presenze, competenze, trattenute, progressivi e TFR — con un esempio vero da RAL 30.000 €."
           stats={[
             { value: "≈ 1.905 €", label: "Netto del mese", tone: "dark" },
             { value: "24.750,10 €", label: "netto annuo", tone: "lime" },

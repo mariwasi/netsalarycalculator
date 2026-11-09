@@ -28,7 +28,7 @@ export default function CalcoloIrpefPage() {
       <main id="inizio">
         <EditorialPage
           doc={doc}
-          subline="L'IRPEF è l'imposta che pesa di più sulla busta paga, ed è anche quella che viene spiegata peggio."
+          subline="IRPEF 2026: 23% fino a 28.000 €, 33% fino a 50.000 €, 43% oltre — poi detrazioni e bonus. Ecco la formula e un esempio completo con RAL 45.000 €."
           stats={[
             { value: "9.892,16 €", label: "IRPEF netta su RAL 45.000 €", tone: "dark" },
             { value: "30.265,39 €", label: "Stipendio netto annuo, stesso caso", tone: "lime" },

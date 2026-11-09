@@ -28,7 +28,7 @@ export default function CcnlCommercioPage() {
       <main id="inizio">
         <EditorialPage
           doc={doc}
-          subline={'Se lavori in un negozio, in un supermercato, in un\'azienda di distribuzione o di servizi, è molto probabile che il tuo contratto sia il CCNL del Terziario, della Distribuzione e dei Servizi — quello che tutti chiamano "CCNL Commercio".'}
+          subline="Il CCNL Commercio prevede 14 mensilità e 7 livelli: ecco come funzionano i livelli e quanto cambia lo stipendio netto."
           stats={[
             { value: "H011", label: "Codice CNEL del contratto Confcommercio", tone: "dark" },
             { value: "14", label: "Mensilità: tredicesima e quattordicesima", tone: "lime" },

@@ -5,13 +5,13 @@
 
 # Calcolo RAL: cos'è la Retribuzione Annua Lorda e come si converte in netto (2026)
 
-La RAL è la **retribuzione annua lorda**: lo stipendio lordo di un anno intero, prima di contributi e imposte. Si calcola così: **RAL = retribuzione lorda mensile × numero di mensilità**. Con una RAL di 30.000 €, in Lombardia e con 13 mensilità, lo stipendio netto è **24.750,10 € l'anno, cioè 1.903,85 € al mese**. Per il tuo caso, usa il [calcolatore dello stipendio netto](/) con la tua RAL, la tua regione e le tue mensilità: il risultato arriva in un minuto, con il dettaglio voce per voce.
+La RAL è la **retribuzione annua lorda**: lo stipendio lordo di un anno intero, prima di contributi e imposte. Si calcola così: **RAL = retribuzione lorda mensile × numero di mensilità**. Con una RAL di 30.000 €, in Lombardia e con 13 mensilità, lo stipendio netto è **24.750,10 € l'anno, cioè 1.903,85 € al mese**. Questa guida spiega il calcolo RAL passo passo: cos'è la RAL, cosa include, e come si fa il calcolo netto da RAL per arrivare al RAL netto mensile. Per il tuo caso, usa il [calcolatore dello stipendio netto](/) con la tua RAL, la tua regione e le tue mensilità: il risultato arriva in un minuto, con il dettaglio voce per voce.
 
 Gli esempi di questa pagina usano sempre le stesse ipotesi, dichiarate una volta sola qui: dipendente del settore privato, contratto a tempo indeterminato, anno intero, residenza in Lombardia, 13 mensilità, nessun familiare a carico, regole in vigore nel 2026. Il bonus di 1.200 € (trattamento integrativo) è incluso dove spetta; l'addizionale comunale è una stima dello 0,5%, perché l'aliquota vera dipende dal Comune. Se la tua situazione è diversa — un'altra regione, 14 mensilità, figli a carico — i numeri cambiano, ma il metodo resta lo stesso.
 
 ## Cos'è la RAL
 
-La RAL è la cifra che compare nell'offerta di lavoro e nel contratto: è il compenso lordo annuo pattuito con il datore di lavoro. Non è un termine della legge fiscale — il TUIR non definisce la RAL: è una convenzione contrattuale, e proprio per questo due offerte con la stessa RAL possono dare netti diversi, perché il netto dipende da regione, mensilità e detrazioni, non dalla sola RAL.
+RAL stipendio lordo annuo: la cifra che compare nell'offerta di lavoro e nel contratto, pattuita con il datore di lavoro. Non è un termine della legge fiscale — il TUIR non definisce la RAL: è una convenzione contrattuale, e proprio per questo due offerte con la stessa RAL possono dare netti diversi, perché il netto dipende da regione, mensilità e detrazioni, non dalla sola RAL.
 
 Attenzione a un errore che si legge in giro: RAL non sta per "Reddito Annuo Lordo". Significa **Retribuzione Annua Lorda**. La differenza non è solo di parole: il "reddito" fiscale è un'altra cosa (l'imponibile, dopo i contributi), e confondere i due termini porta a calcoli sbagliati — gli scaglioni IRPEF, ad esempio, si applicano all'imponibile, non alla RAL.
 
@@ -43,7 +43,7 @@ La formula è una sola riga:
 
 **RAL = retribuzione lorda mensile × numero di mensilità**
 
-Se conosci la RAL e vuoi la mensilità lorda, dividi: 30.000 € / 13 = **2.307,69 €** al mese di lordo. Se conosci la mensilità e vuoi la RAL, moltiplica: 2.307,69 € × 13 = 30.000 €. Il numero di mensilità dipende dal contratto: il [CCNL Metalmeccanico](/ccnl-metalmeccanico/) prevede 13 mensilità, il [CCNL Commercio](/ccnl-commercio/) ne prevede 14 — e lo stesso importo annuo, diviso per 14 invece che per 13, dà una mensilità più bassa (la sezione sulle mensilità spiega perché il netto annuo non cambia).
+Se conosci la RAL e vuoi la mensilità lorda, dividi: 30.000 € / 13 = **2.307,69 €** al mese di lordo. Se conosci la mensilità e vuoi la RAL, moltiplica: 2.307,69 € × 13 = 30.000 €. Il numero di mensilità dipende dal contratto: il [CCNL Metalmeccanico](/ccnl-metalmeccanico/) prevede 13 mensilità, il [CCNL Commercio](/ccnl-commercio/) ne prevede 14 — e lo stesso importo annuo, diviso per 14 invece che per 13, dà una mensilità più bassa (la sezione sulle mensilità spiega perché il netto annuo non cambia). La stessa formula vale per il calcolo RAL netto di qualsiasi importo: dalla RAL al netto mensile, i passaggi sono sempre i cinque della sezione successiva.
 
 ## Dove si trova la RAL in busta paga (e nella CU)
 
@@ -93,6 +93,7 @@ Due controlli che vale la pena fare su questa tabella. Primo: il netto è l'**82
 |---|---|
 | 20.000 € | 1.360,08 € |
 | 25.000 € | 1.667,93 € |
+| [28.000 €](/stipendio-netto-ral-28000/) | 1.811,49 € |
 | [30.000 €](/stipendio-netto-ral-30000/) | 1.903,85 € |
 | 40.000 € | 2.165,81 € |
 | 50.000 € | 2.548,14 € |
