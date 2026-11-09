@@ -13,7 +13,7 @@ export function Footer() {
       <div className="mx-auto grid w-full max-w-6xl gap-8 px-4 py-10 sm:px-6 md:grid-cols-3">
         <div>
           <p className="flex items-center gap-3 text-lg font-semibold text-white">
-            <img src="/logo-footer.svg" alt="StipendioNetto" width={36} height={36} className="h-9 w-9 rounded-full" />
+            <img src="/logo-footer.svg" alt="StipendioNetto" width={48} height={48} className="h-12 w-12 rounded-full" />
             StipendioNetto
           </p>
           <p className="mt-2 text-sm leading-6">
