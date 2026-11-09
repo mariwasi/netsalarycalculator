@@ -12,7 +12,10 @@ export function Footer() {
     <footer className="bg-forest text-mint-soft">
       <div className="mx-auto grid w-full max-w-6xl gap-8 px-4 py-10 sm:px-6 md:grid-cols-3">
         <div>
-          <p className="text-lg font-semibold text-white">StipendioNetto</p>
+          <p className="flex items-center gap-3 text-lg font-semibold text-white">
+            <img src="/logo-footer.svg" alt="StipendioNetto" width={36} height={36} className="h-9 w-9 rounded-full" />
+            StipendioNetto
+          </p>
           <p className="mt-2 text-sm leading-6">
             Una stima dello stipendio netto a partire dalla RAL. Il risultato è indicativo e non sostituisce una busta paga o una consulenza fiscale.
           </p>
@@ -21,68 +24,48 @@ export function Footer() {
           <p className="text-sm font-semibold text-white">In questa pagina</p>
           <ul className="mt-2 space-y-2 text-sm">
             <li>
-              <a href="#inizio" className="hover:text-white">
+              <a href="#inizio" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Homepage
               </a>
             </li>
             <li>
-              <a href="#calcolatore" className="hover:text-white">
+              <a href="#calcolatore" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Calcolatore
               </a>
             </li>
             <li>
-              <a href="#confronto" className="hover:text-white">
+              <a href="#confronto" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Confronto RAL
               </a>
             </li>
             <li>
-              <a href="#domande" className="hover:text-white">
+              <a href="#domande" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Domande frequenti
               </a>
             </li>
             <li>
-              <Link href="/come-si-calcola-stipendio-netto" className="hover:text-white">
+              <Link href="/come-si-calcola-stipendio-netto" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Come si calcola lo stipendio netto
               </Link>
             </li>
             <li>
-              <Link href="/busta-paga" className="hover:text-white">
+              <Link href="/busta-paga" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Busta paga
               </Link>
             </li>
             <li>
-              <Link href="/come-leggere-la-busta-paga" className="hover:text-white">
-                Come leggere la busta paga
-              </Link>
-            </li>
-            <li>
-              <Link href="/metodologia" className="hover:text-white">
-                Metodologia
-              </Link>
-            </li>
-            <li>
-              <Link href="/calcolo-irpef" className="hover:text-white">
-                Calcolo IRPEF
-              </Link>
-            </li>
-            <li>
-              <Link href="/calcolo-ral" className="hover:text-white">
+              <Link href="/calcolo-ral" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Calcolo RAL
               </Link>
             </li>
             <li>
-              <Link href="/ccnl-metalmeccanico" className="hover:text-white">
-                CCNL Metalmeccanico
+              <Link href="/scaglioni-irpef-2026" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
+                Scaglioni IRPEF 2026
               </Link>
             </li>
             <li>
-              <Link href="/ccnl-commercio" className="hover:text-white">
-                CCNL Commercio
-              </Link>
-            </li>
-            <li>
-              <Link href="/preavviso-dimissioni" className="hover:text-white">
-                Preavviso dimissioni
+              <Link href="/metodologia" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
+                Metodologia
               </Link>
             </li>
           </ul>
@@ -90,11 +73,6 @@ export function Footer() {
         <div>
           <p className="text-sm font-semibold text-white">Pagine in preparazione</p>
           <ul className="mt-2 space-y-2 text-sm">
-            <li>
-              <Link href="/scaglioni-irpef-2026" className="hover:text-white">
-                IRPEF e scaglioni
-              </Link>
-            </li>
             {futurePages.map((page) => (
               <li key={page} className="flex items-center justify-between gap-3">
                 <span>{page}</span>
