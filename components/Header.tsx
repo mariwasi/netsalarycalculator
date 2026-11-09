@@ -99,13 +99,13 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-white/95 backdrop-blur">
-      <div className="mx-auto flex h-24 w-full max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
+      <div className="mx-auto flex h-28 w-full max-w-[90rem] items-center justify-between gap-4 px-4 sm:px-6">
         <a
           href="#inizio"
           className="inline-flex flex-col items-center gap-1 rounded-2xl px-3 py-1 text-[1.05rem] font-bold tracking-tight text-forest transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98]"
         >
-          <span className="h-14 w-14 overflow-hidden rounded-full">
-            <Image src="/logo.webp" alt="StipendioNetto — logo" width={56} height={56} className="h-14 w-14 object-cover" priority />
+          <span className="h-16 w-16 overflow-hidden rounded-full">
+            <Image src="/logo.webp" alt="StipendioNetto — logo" width={64} height={64} className="h-16 w-16 object-cover" priority />
           </span>
           StipendioNetto
         </a>
