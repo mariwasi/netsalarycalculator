@@ -11,7 +11,7 @@
 
 # Come leggere la busta paga: la guida passo passo, con un esempio vero
 
-La busta paga media contiene più di quaranta voci busta paga. Non serve capirle tutte: serve sapere **dove guardare** e **quali numeri devono tornare**. Questa guida ti porta dentro un busta paga esempio vero, sezione per sezione, con un esempio numerico che puoi seguire con la tua busta alla mano. Alla fine trovi la checklist da cinque minuti da ripetere ogni mese.
+La busta paga media contiene più di quaranta voci busta paga. Non serve capirle tutte: serve sapere **dove guardare** e **quali numeri devono tornare**. Questa guida spiega come leggere busta paga, passo passo, e come leggere buste paga di aziende diverse: le sezioni sono sempre le stesse quattro — testata, competenze, trattenute, riepiloghi — e i controlli che contano sono sempre questi. Busta paga come leggere: questa guida ti porta dentro un busta paga esempio vero, sezione per sezione, con un esempio numerico che puoi seguire con la tua busta alla mano. Alla fine trovi la checklist da cinque minuti da ripetere ogni mese.
 
 Un'avvertenza prima di iniziare: non esiste un formato unico. Il tuo cedolino può essere impaginato in modo diverso da quello di un collega di un'altra azienda, perché dipende dal software paghe. Ma le sezioni sono sempre le stesse quattro — testata, competenze, trattenute, riepiloghi — e i controlli che contano sono sempre questi.
 

@@ -12,7 +12,7 @@
 
 Ogni mese la apri, guardi l'ultima riga — il netto — e la chiudi. È quello che fa quasi chiunque. Ma la **busta paga** (o cedolino) è molto di più di un avviso di accredito: è il documento ufficiale che racconta il tuo rapporto di lavoro, voce per voce. Dentro ci sono il tuo livello, i tuoi scatti, le ferie che hai maturato, il TFR che stai accumulando e le tasse che stai pagando. Se da qualche parte c'è un errore — e gli errori in busta paga esistono, quasi sempre in buona fede — l'unico modo per accorgersene è saperla leggere.
 
-Questa pagina ti spiega com'è fatta e cosa significa ogni voce. Se invece vuoi imparare come leggere buste paga, mese per mese, vai alla guida passo passo: [come leggere la busta paga](/come-leggere-la-busta-paga/) — con un busta paga esempio compilato, voce per voce.
+Questa pagina ti spiega com'è fatta e cosa significa ogni voce. Se invece vuoi imparare come leggere buste paga, mese per mese, vai alla guida passo passo: [come leggere busta paga](/come-leggere-la-busta-paga/) — con un busta paga esempio compilato, voce per voce. Busta paga come leggere: la guida parte dalla testata e arriva al netto, con i controlli da fare ogni mese.
 
 ## Cos'è la busta paga e perché è obbligatoria
 
@@ -44,7 +44,7 @@ L'ultima zona è una miniera di informazioni che quasi nessuno guarda: i **progr
 
 ## Le voci principali, una per una
 
-Le voci busta paga sono tante, ma quelle che contano davvero sono poche: questa tabella spiega le principali, una per una, con il codice che trovi sul cedolino.
+Le voci busta paga sono tante, ma quelle che contano davvero sono poche: questa tabella spiega le principali, una per una, con il codice che trovi sul cedolino. Le voci busta paga codici si leggono così: ogni riga ha la voce, il suo significato e il codice CNEL del contratto che la regola. Chi cerca come leggere le buste paghe trova qui la mappa completa delle voci, prima di passare alla guida passo passo.
 
 | Voce | Cosa significa |
 |---|---|

@@ -63,7 +63,7 @@ Nota la prima colonna: fino a 28.000 euro l'aliquota media coincide con quella m
 
 ## Scaglioni 2026 contro 2025: cosa cambia davvero
 
-Chi confronta gli scaglioni IRPEF 2025 con quelli del 2026 trova una sola variazione: il secondo scaglione, sceso dal 35% al 33%. Soglie e altre aliquote sono invariate. L'aliquota IRPEF 2025 del secondo scaglione era il 35%; nel 2026 è il 33%. Per il calcolo IRPEF 2025, l'imposta cumulata a 50.000 € era 14.140 €; con gli scaglioni IRPEF 2026 è 13.700 €.
+Chi confronta gli scaglioni IRPEF 2025 con quelli del 2026 trova una sola variazione: il secondo scaglione, sceso dal 35% al 33%. Soglie e altre aliquote sono invariate. L'aliquota IRPEF 2025 del secondo scaglione era il 35%; nel 2026 è il 33%. La tabella delle aliquote IRPEF 2025 scaglioni era 23% / 35% / 43%; quella del 2026 è 23% / 33% / 43%. Per il calcolo IRPEF 2025, l'imposta cumulata a 50.000 € era 14.140 €; con gli scaglioni IRPEF 2026 è 13.700 €.
 
 | Scaglione | Aliquota 2025 | Aliquota 2026 |
 |---|---|---|
