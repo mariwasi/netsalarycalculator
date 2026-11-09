@@ -10,6 +10,7 @@ const files = [
   "metodologia-content.md",
   "calcolo-irpef-content.md",
   "calcolo-ral-content.md",
+  "stipendio-netto-ral-28000-content.md",
   "stipendio-netto-ral-30000-content.md",
   "ccnl-metalmeccanico-content.md",
   "ccnl-commercio-content.md",

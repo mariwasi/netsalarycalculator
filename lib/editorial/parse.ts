@@ -32,6 +32,7 @@ const LIVE_PATHS = new Set([
   "/metodologia",
   "/calcolo-irpef",
   "/calcolo-ral",
+  "/stipendio-netto-ral-28000",
   "/stipendio-netto-ral-30000",
   "/ccnl-metalmeccanico",
   "/ccnl-commercio",

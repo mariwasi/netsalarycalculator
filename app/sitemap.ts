@@ -52,6 +52,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
+      url: `${SITE_URL}/stipendio-netto-ral-28000`,
+      lastModified: new Date("2026-11-09"),
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
       url: `${SITE_URL}/stipendio-netto-ral-30000`,
       lastModified: new Date("2026-11-09"),
       changeFrequency: "monthly",
