@@ -25,7 +25,7 @@ const guideLinks = [
 ];
 
 const ctaClass =
-  "rounded-full bg-forest px-4 py-2 text-sm font-bold text-white transition duration-200 ease-out hover:-translate-y-0.5 hover:bg-forest-deep hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98] active:shadow-[0_6px_14px_rgba(0,76,63,0.25)]";
+  "items-center justify-center rounded-full bg-forest px-6 py-2 text-sm font-bold text-white transition duration-200 ease-out hover:-translate-y-0.5 hover:bg-forest-deep hover:shadow-[0_14px_28px_rgba(198,242,78,0.45)] focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 active:translate-y-0 active:scale-[0.98] active:shadow-[0_6px_14px_rgba(0,76,63,0.25)]";
 
 export function Header() {
   const [open, setOpen] = useState(false);
@@ -112,7 +112,7 @@ export function Header() {
 
         <nav className="hidden w-3/5 shrink-0 items-center justify-center gap-4 whitespace-nowrap lg:gap-6 md:flex" aria-label="Sezioni della pagina">
           {links.map((link) => (
-            <Link key={link.href} href={link.href} className="whitespace-nowrap text-sm font-extrabold text-forest hover:text-lime">
+            <Link key={link.href} href={link.href} className="whitespace-nowrap text-base font-extrabold text-forest hover:text-lime">
               {link.label}
             </Link>
           ))}
@@ -127,7 +127,7 @@ export function Header() {
             <button
               ref={desktopButtonRef}
               type="button"
-              className="inline-flex items-center gap-1 text-sm font-extrabold text-forest hover:text-lime"
+              className="inline-flex items-center gap-1 text-base font-extrabold text-forest hover:text-lime"
               aria-expanded={guideOpen}
               aria-haspopup="true"
               aria-controls={desktopMenuId}
@@ -187,7 +187,7 @@ export function Header() {
           <ul className="flex flex-col">
             {links.map((link) => (
               <li key={link.href}>
-                <Link href={link.href} className="block py-2.5 text-sm font-extrabold text-forest" onClick={closeMenus}>
+                <Link href={link.href} className="block py-2.5 text-base font-extrabold text-forest" onClick={closeMenus}>
                   {link.label}
                 </Link>
               </li>
@@ -201,7 +201,7 @@ export function Header() {
                 <button
                   ref={mobileButtonRef}
                   type="button"
-                  className="flex w-full items-center justify-between py-2.5 text-left text-sm font-extrabold text-forest"
+                  className="flex w-full items-center justify-between py-2.5 text-left text-base font-extrabold text-forest"
                   aria-expanded={guideOpen}
                   aria-haspopup="true"
                   aria-controls={mobileGuideId}
