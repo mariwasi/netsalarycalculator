@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #17352d;
+  --color-muted: #64756d;
+  --color-line: #d9e9df;
+  --color-mint: #e5f5ec;
+  --color-mint-soft: #f0faf4;
+  --color-forest: #064e3b;
+  --color-forest-deep: #065f46;
+  --color-lime: #c6f64a;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #ffffff;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-forest);
+  outline-offset: 2px;
+}
+
+.home {
+  --color-ink: #16302a;
+  --color-muted: #5b6f68;
+  --color-line: #d8e6de;
+  --color-mint: #e3f4ea;
+  --color-mint-soft: #f2faf5;
+  --color-forest: #004c3f;
+  --color-forest-deep: #00695c;
+  --color-lime: #c6f24e;
+}
+
+.ticker-track-lime {
+  animation: ticker-left 110s linear infinite;
+}
+
+.ticker-track-dark {
+  animation: ticker-right 150s linear infinite;
+}
+
+@keyframes ticker-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes ticker-right {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track-lime,
+  .ticker-track-dark {
+    animation: none;
+  }
+}
