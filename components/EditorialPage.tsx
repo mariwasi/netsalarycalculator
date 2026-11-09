@@ -200,7 +200,7 @@ export function EditorialPage({
         <section className="rounded-[28px] bg-gradient-to-br from-[#004C3F] to-[#0A6B52] px-6 py-8 text-white sm:px-9">
           <p className="mb-3 text-sm text-[#9FD8C2]">
             <Link href="/" className="text-[#CDE8DC] hover:underline">
-              Home
+              Homepage
             </Link>
             {` / ${doc.title}`}
           </p>
