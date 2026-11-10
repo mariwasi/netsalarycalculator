@@ -26,7 +26,7 @@ export type EditorialDoc = {
 const LIVE_PATHS = new Set([
   "/",
   "/come-si-calcola-stipendio-netto",
-  "/scaglioni-irpef-2026",
+  "/scaglioni-irpef",
   "/busta-paga",
   "/come-leggere-la-busta-paga",
   "/metodologia",

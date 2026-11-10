@@ -36,7 +36,7 @@ In alto trovi i dati dell'azienda (ragione sociale, partita IVA, posizioni INPS 
 
 ### 3. Le trattenute: dal lordo al netto
 
-Qui avviene la trasformazione che interessa a tutti. Prima i **contributi INPS** a tuo carico (di norma il 9,19% del lordo), che riducono il lordo all'**imponibile fiscale**. Poi l'**IRPEF**, calcolata con gli [scaglioni](/scaglioni-irpef-2026/) e alleggerita dalle detrazioni. Infine le **addizionali** regionale e comunale, spalmate in rate durante l'anno. La differenza tra lordo e totale trattenute è il **netto a pagare**: la riga in fondo, quella che guardi sempre.
+Qui avviene la trasformazione che interessa a tutti. Prima i **contributi INPS** a tuo carico (di norma il 9,19% del lordo), che riducono il lordo all'**imponibile fiscale**. Poi l'**IRPEF**, calcolata con gli [scaglioni](/scaglioni-irpef/) e alleggerita dalle detrazioni. Infine le **addizionali** regionale e comunale, spalmate in rate durante l'anno. La differenza tra lordo e totale trattenute è il **netto a pagare**: la riga in fondo, quella che guardi sempre.
 
 ### 4. La parte bassa: riepiloghi e contatori
 

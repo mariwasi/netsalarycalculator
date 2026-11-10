@@ -82,7 +82,7 @@ l'IRPEF lorda è 6.440 € + 33% di 12.000 € = **10.400 €**. L'aliquota medi
 il 26%, non il 33%: la media è sempre più bassa della marginale, perché le
 prime fasce sono tassate meno. La tabella completa, con il confronto anno per
 anno e il risparmio massimo di 440 € portato dal nuovo 33%, è nella pagina
-degli [scaglioni IRPEF 2026](/scaglioni-irpef-2026/).
+degli [scaglioni IRPEF 2026](/scaglioni-irpef/).
 
 Un avvertimento pratico, visto che in rete l'errore è ancora diffuso: se una
 tabella datata 2026 mostra "6.440 + 35%" o un cumulato di 14.140 € a 50.000 €,
@@ -316,7 +316,7 @@ Per applicare tutti i passaggi alla tua situazione — la tua RAL, la tua
 regione, le tue mensilità, i tuoi familiari a carico — usa il
 [calcolatore dello stipendio netto](/) e confronta il dettaglio voce per
 voce con i due esempi di questa pagina. Per la tabella degli scaglioni e il
-risparmio del 33% vedi gli [scaglioni IRPEF 2026](/scaglioni-irpef-2026/); per
+risparmio del 33% vedi gli [scaglioni IRPEF 2026](/scaglioni-irpef/); per
 il percorso completo fino al netto, la
 [guida al calcolo dello stipendio netto](/come-si-calcola-stipendio-netto/).
 Come verifichiamo ogni cifra, e con quali ipotesi dichiarate, è spiegato

@@ -36,6 +36,17 @@ const nextConfig: NextConfig = {
       },
     },
   },
+  async redirects() {
+    return [
+      {
+        // Evergreen permalink rule: no year in URLs. The old 2026 slug
+        // redirects permanently to the year-free slug.
+        source: "/scaglioni-irpef-2026",
+        destination: "/scaglioni-irpef",
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

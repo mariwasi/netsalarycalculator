@@ -6,7 +6,7 @@ export const GUIDE_INDEX: GuideEntry[] = [
   { title: "Calcolo RAL: cos'è e come si converte in netto", href: "/calcolo-ral", keywords: "ral lordo netto conversione retribuzione annua lorda" },
   { title: "RAL 30.000 €: quanto è lo stipendio netto al mese?", href: "/stipendio-netto-ral-30000", keywords: "ral 30000 30.000 trentamila" },
   { title: "RAL 28.000 €: quanto è lo stipendio netto al mese?", href: "/stipendio-netto-ral-28000", keywords: "ral 28000 28.000 ventottomila" },
-  { title: "Scaglioni IRPEF 2026", href: "/scaglioni-irpef-2026", keywords: "irpef aliquote scaglioni tabella 23 33 43" },
+  { title: "Scaglioni IRPEF 2026", href: "/scaglioni-irpef", keywords: "irpef aliquote scaglioni tabella 23 33 43" },
   { title: "Calcolo IRPEF 2026: formula, aliquote ed esempi", href: "/calcolo-irpef", keywords: "irpef calcolo detrazioni bonus" },
   { title: "Busta paga: cos'è e come è fatta", href: "/busta-paga", keywords: "busta paga cedolino voci trattenute tfr" },
   { title: "Come leggere la busta paga", href: "/come-leggere-la-busta-paga", keywords: "leggere busta paga esempio voci codici" },

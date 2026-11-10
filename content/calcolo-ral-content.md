@@ -64,7 +64,7 @@ Dalla RAL allo stipendio netto ci sono cinque passaggi, sempre gli stessi. Li ri
 4. **Addizionali.** All'IRPEF netta aggiungi l'addizionale regionale e quella comunale, calcolate sullo stesso imponibile. In Lombardia il calcolatore usa l'aliquota base dell'1,23% come stima; la comunale è stimata allo 0,5%.
 5. **Trattamento integrativo.** Se il reddito complessivo non supera 28.000 € e l'IRPEF lorda supera la detrazione per lavoro dipendente, si aggiungono **1.200 € l'anno** (100 € al mese). Il test si fa sul reddito complessivo dopo l'INPS, non sulla RAL.
 
-Due ancoraggi, per orientarti subito: con una RAL di 20.000 € il netto è **1.360,08 €** al mese; con una RAL di 25.000 € è **1.667,93 €** al mese (Lombardia, 13 mensilità, nessun familiare a carico). L'esempio completo qui sotto svolge il caso da 30.000 € fino all'ultimo centesimo.
+Due ancoraggi, per orientarti subito: con una RAL di 20.000 € il netto è **1.374,07 €** al mese; con una RAL di 25.000 € è **1.667,93 €** al mese (Lombardia, 13 mensilità, nessun familiare a carico). L'esempio completo qui sotto svolge il caso da 30.000 € fino all'ultimo centesimo.
 
 ## Esempio completo: RAL 30.000 €, Lombardia, 13 mensilità
 
@@ -91,7 +91,7 @@ Due controlli che vale la pena fare su questa tabella. Primo: il netto è l'**82
 
 | RAL annua | Netto mensile (13 mensilità) |
 |---|---|
-| 20.000 € | 1.360,08 € |
+| 20.000 € | 1.374,07 € |
 | 25.000 € | 1.667,93 € |
 | [28.000 €](/stipendio-netto-ral-28000/) | 1.811,49 € |
 | [30.000 €](/stipendio-netto-ral-30000/) | 1.903,85 € |

@@ -80,7 +80,7 @@ La regola pratica: se vuoi capire quanto vale il tuo inquadramento, guarda la pa
 Qui arriva il punto che questa pagina deve chiarire meglio di qualsiasi tabella: **il fisco non conosce il tuo livello**. Che tu sia D1 o A1, il percorso dal lordo al netto è identico, e lo trovi spiegato per intero nella [guida completa al calcolo](/come-si-calcola-stipendio-netto/). Cambia solo la cifra di partenza — la RAL — e con essa cambiano gli effetti delle regole progressive. In sintesi:
 
 1. **Contributi INPS**: 9,19% della retribuzione lorda a carico del dipendente privato (5,84% per gli apprendisti). Sottraendoli dalla RAL ottieni il reddito imponibile.
-2. **IRPEF per scaglioni 2026**: 23% fino a 28.000 euro di imponibile, **33%** da 28.001 a 50.000 euro, 43% oltre. L'imposta cumulata è 6.440 euro a 28.000 euro e 13.700 euro a 50.000 euro. Ogni aliquota colpisce solo la fetta di reddito nel suo scaglione: superare una soglia non fa mai perdere soldi. La tabella completa è nella pagina degli [scaglioni IRPEF 2026](/scaglioni-irpef-2026/).
+2. **IRPEF per scaglioni 2026**: 23% fino a 28.000 euro di imponibile, **33%** da 28.001 a 50.000 euro, 43% oltre. L'imposta cumulata è 6.440 euro a 28.000 euro e 13.700 euro a 50.000 euro. Ogni aliquota colpisce solo la fetta di reddito nel suo scaglione: superare una soglia non fa mai perdere soldi. La tabella completa è nella pagina degli [scaglioni IRPEF 2026](/scaglioni-irpef/).
 3. **Detrazione per lavoro dipendente (art. 13 TUIR)**: 1.955 euro se il reddito complessivo non supera 15.000 euro; poi una formula decrescente (1.910 euro + 1.190 × (28.000 − RC) / 13.000 tra 15.000 e 28.000 euro; 1.910 × (50.000 − RC) / 22.000 tra 28.000 e 50.000 euro), con un minimo garantito di 690 euro e una maggiorazione di 65 euro tra 25.000 e 35.000 euro. Sopra 50.000 euro si azzera.
 4. **Detrazioni per familiari a carico (art. 12 TUIR)**: l'importo pieno è solo teorico. Per un figlio tra 21 e 29 anni a carico la detrazione teorica è 950 euro, ma quella effettiva è 950 × (soglia − RC) / soglia, dove la soglia è 95.000 euro (più 15.000 euro per ogni figlio successivo al primo). Applicare 950 euro secchi sovrastima il netto di centinaia di euro. Per i figli sotto i 21 anni non ci sono detrazioni in busta paga: spetta l'assegno unico universale pagato dall'INPS.
 5. **Bonus trattamento integrativo**: 1.200 euro l'anno (100 euro al mese) **solo** se il reddito complessivo non supera 28.000 euro **e** l'IRPEF lorda supera la sola detrazione per lavoro dipendente. Se a fine anno il reddito supera la soglia — per un premio, un secondo lavoro, il conguaglio tra due CU — il bonus va restituito.
@@ -112,7 +112,7 @@ Ecco perché il livello conta, ma non in proporzione diretta. A parità di condi
 
 | RAL illustrativa | Netto mensile medio (13 mensilità) |
 |---|---|
-| 20.000 € | 1.360,08 € |
+| 20.000 € | 1.374,07 € |
 | 25.000 € | 1.667,93 € |
 | 30.000 € | 1.903,85 € |
 | 40.000 € | 2.165,81 € |
@@ -176,7 +176,7 @@ No. Gli straordinari pagano tempo in più, non un ruolo superiore. Un netto alto
 La spiegazione della scala e del calcolo del netto sì — le regole fiscali sono le stesse. Le tabelle dei minimi no: il contratto PMI ha minimi propri, diversi da quelli industria. Verifica sempre il CCNL scritto in busta paga prima di confrontare cifre.
 
 ### Dove trovo il calcolo per il mio livello esatto?
-Nelle pagine di livello, quando saranno pronte, ciascuna riprenderà il calcolo dal lordo al netto per quella posizione. Per ora, per il calcolo con il minimo del tuo livello usa il [calcolatore dello stipendio netto](/). Per le regole fiscali generali, la [guida completa](/come-si-calcola-stipendio-netto/) e la pagina degli [scaglioni IRPEF 2026](/scaglioni-irpef-2026/) restano il riferimento; per il confronto con un altro grande contratto, la pagina sul [CCNL Commercio](/ccnl-commercio/).
+Nelle pagine di livello, quando saranno pronte, ciascuna riprenderà il calcolo dal lordo al netto per quella posizione. Per ora, per il calcolo con il minimo del tuo livello usa il [calcolatore dello stipendio netto](/). Per le regole fiscali generali, la [guida completa](/come-si-calcola-stipendio-netto/) e la pagina degli [scaglioni IRPEF 2026](/scaglioni-irpef/) restano il riferimento; per il confronto con un altro grande contratto, la pagina sul [CCNL Commercio](/ccnl-commercio/).
 
 ## Fonti e aggiornamento
 

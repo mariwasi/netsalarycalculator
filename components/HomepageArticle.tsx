@@ -193,7 +193,7 @@ export function HomepageArticle() {
                 <tbody>
                   <tr className="border-t border-line">
                     <th scope="row" className="px-3 py-2 text-left font-medium">20.000 €</th>
-                    <td className="px-3 py-2">1.360,08 €</td>
+                    <td className="px-3 py-2">1.374,07 €</td>
                   </tr>
                   <tr className="border-t border-line">
                     <th scope="row" className="px-3 py-2 text-left font-medium">25.000 €</th>

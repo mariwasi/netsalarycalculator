@@ -36,6 +36,8 @@ export type SalaryResult = {
   inpsOrdinaryBase: number;
   inpsExtraBase: number;
   taxableIncome: number;
+  /** Imponibile IRPEF: reddito complessivo meno la somma non imponibile. */
+  imponibileIrpef: number;
   irpefGross: number;
   employmentDeduction: number;
   /** €65 cuneo line. Not part of employmentDeduction. */

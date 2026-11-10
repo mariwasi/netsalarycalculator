@@ -21,7 +21,7 @@ describe("searchGuide", () => {
 
   it("finds IRPEF pages for 'irpef'", () => {
     const hrefs = searchGuide("irpef").map((entry) => entry.href);
-    expect(hrefs).toContain("/scaglioni-irpef-2026");
+    expect(hrefs).toContain("/scaglioni-irpef");
     expect(hrefs).toContain("/calcolo-irpef");
   });
 
@@ -36,7 +36,7 @@ describe("searchGuide", () => {
 
   it("caps results at 5 and only links to live pages", () => {
     const live = new Set([
-      "/", "/come-si-calcola-stipendio-netto", "/scaglioni-irpef-2026", "/calcolo-irpef",
+      "/", "/come-si-calcola-stipendio-netto", "/scaglioni-irpef", "/calcolo-irpef",
       "/calcolo-ral", "/busta-paga", "/come-leggere-la-busta-paga", "/metodologia",
       "/ccnl-metalmeccanico", "/ccnl-commercio", "/preavviso-dimissioni",
       "/stipendio-netto-ral-30000", "/stipendio-netto-ral-28000",

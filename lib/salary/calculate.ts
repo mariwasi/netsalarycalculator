@@ -153,7 +153,9 @@ function cents(value: number): number {
 export function calculateSalary(input: SalaryInput): SalaryResult {
   const inps = calculateInps(input.ral, input.months, input.applyMassimale);
   const taxableIncome = round2(input.ral - inps.amount);
-  const grossTax = irpefGross(taxableIncome);
+  const somma = sommaIntegrativa(taxableIncome);
+  const imponibileIrpef = round2(taxableIncome - somma);
+  const grossTax = irpefGross(imponibileIrpef);
   const employment = employmentDeduction(taxableIncome);
   const family = familyDeductions(taxableIncome, input.family);
   const ulteriore = ulterioreDetrazione(taxableIncome);
@@ -168,11 +170,11 @@ export function calculateSalary(input: SalaryInput): SalaryResult {
     trattamentoIntegrativo = Math.min(1200, irpefNet);
   }
 
-  const regionalQuote = calculateRegionalTax(input.regionId, taxableIncome);
+  const regionalQuote = calculateRegionalTax(input.regionId, imponibileIrpef);
   const regionalTax = irpefNet > 0 ? regionalQuote.amount : 0;
   const municipalEstimated = input.municipalRate === null;
   const municipalRate = input.municipalRate ?? 0.005;
-  const municipalTax = irpefNet > 0 ? round2(taxableIncome * municipalRate) : 0;
+  const municipalTax = irpefNet > 0 ? round2(imponibileIrpef * municipalRate) : 0;
 
   const withholdingsCents =
     cents(inps.amount) + cents(irpefNet) + cents(regionalTax) + cents(municipalTax);
@@ -185,6 +187,11 @@ export function calculateSalary(input: SalaryInput): SalaryResult {
     input.applyMassimale
       ? "È applicato il massimale contributivo 2026 di 122.295 €."
       : "Il massimale contributivo non è applicato: i contributi sono calcolati sull'intera RAL.",
+    ...(somma > 0
+      ? [
+          "Per redditi complessivi fino a 20.000 €, una somma non concorre a formare il reddito: 7,1% fino a 8.500 €, 5,3% fino a 15.000 €, 4,8% fino a 20.000 €.",
+        ]
+      : []),
     `La RAL è divisa in ${input.months} mensilità uguali. Il netto mensile è la stima annua ripartita nello stesso modo.`,
     municipalEstimated
       ? "L'addizionale comunale è una stima allo 0,5% sull'intero imponibile, perché il campo aliquota è vuoto. Un valore inserito sostituisce la stima."
@@ -204,6 +211,7 @@ export function calculateSalary(input: SalaryInput): SalaryResult {
     inpsOrdinaryBase: inps.ordinaryBase,
     inpsExtraBase: inps.extraBase,
     taxableIncome,
+    imponibileIrpef,
     irpefGross: grossTax,
     employmentDeduction: employment,
     cuneo65: plus65,
@@ -220,7 +228,7 @@ export function calculateSalary(input: SalaryInput): SalaryResult {
     municipalRate,
     municipalEstimated,
     trattamentoIntegrativo,
-    sommaIntegrativa: 0,
+    sommaIntegrativa: somma,
     withholdings,
     netAnnual,
     netMonthly: round2(netAnnual / input.months),

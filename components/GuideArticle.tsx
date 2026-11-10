@@ -241,7 +241,7 @@ export function GuideArticle() {
             <strong className="text-[#16302A]">Redditi tra 20.000 e 40.000 euro — detrazione aggiuntiva.</strong> Invece della somma esclusa spetta una detrazione dall&apos;IRPEF di <strong className="text-[#16302A]">1.000 euro</strong> per redditi fino a 32.000 euro, che poi si riduce in proporzione fino ad azzerarsi a 40.000 euro (a 36.000 euro, ad esempio, vale 500 euro).
           </P>
           <P>
-            Il risultato pratico è che sulle retribuzioni più basse la trattenuta fiscale effettiva risulta molto contenuta: con una RAL di 20.000 euro, ad esempio, il netto annuo è di circa 17.681 euro, pari a circa l'88% del lordo.
+            Il risultato pratico è che sulle retribuzioni più basse la trattenuta fiscale effettiva risulta molto contenuta: con una RAL di 20.000 euro, ad esempio, il netto annuo è di circa 17.863 euro, pari a circa l'89% del lordo.
           </P>
 
           <H2 id="passaggio-3-l-irpef-e-gli-scaglioni-2026">Passaggio 3: l&apos;IRPEF e gli scaglioni 2026</H2>

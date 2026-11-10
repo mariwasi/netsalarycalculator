@@ -59,7 +59,7 @@ export function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/scaglioni-irpef-2026" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
+              <Link href="/scaglioni-irpef" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Scaglioni IRPEF 2026
               </Link>
             </li>

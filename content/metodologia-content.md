@@ -101,7 +101,7 @@ I due importi fissi si verificano a mano: 6.440 euro è il 23% di 28.000, e
 13.700 euro è 6.440 più il 33% di 22.000, la larghezza del secondo
 scaglione. Un avviso pratico: se in una tabella online vedi ancora "6.440
 + 35%" o la base 14.140 euro, stai leggendo i valori del 2024–2025, non
-quelli del 2026. Nella [pagina degli scaglioni](/scaglioni-irpef-2026/)
+quelli del 2026. Nella [pagina degli scaglioni](/scaglioni-irpef/)
 trovi la tabella completa, il confronto con il 2025 e il risparmio del
 nuovo 33%, che arriva fino a 440 euro l'anno.
 
@@ -308,7 +308,7 @@ nostra politica è questa:
 1. A ogni Legge di Bilancio, e a ogni modifica ufficiale di aliquote,
    detrazioni o soglie, ricontrolliamo scaglioni, formule e esempi di
    questa pagina, della [guida](/come-si-calcola-stipendio-netto/) e
-   della [pagina degli scaglioni](/scaglioni-irpef-2026/) prima di
+   della [pagina degli scaglioni](/scaglioni-irpef/) prima di
    aggiornare il calcolatore.
 2. Ogni esempio numerico viene ricalcolato a mano, non copiato dalla
    versione precedente: è così che si scopre, ad esempio, che una tabella

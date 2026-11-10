@@ -361,7 +361,7 @@ volontariamente.
 
 Per rifare i conti del tuo stipendio, usa il [calcolatore dello stipendio
 netto](/) e leggi la [guida passo passo al calcolo](/come-si-calcola-stipendio-netto/);
-per le aliquote, la pagina degli [scaglioni IRPEF 2026](/scaglioni-irpef-2026/).
+per le aliquote, la pagina degli [scaglioni IRPEF 2026](/scaglioni-irpef/).
 Per i contratti più diffusi, le pagine dedicate al [CCNL Commercio](/ccnl-commercio/)
 e al [CCNL Metalmeccanico](/ccnl-metalmeccanico/).
 

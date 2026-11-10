@@ -26,7 +26,7 @@ export function HomeHero({ calculator }: { calculator: ReactNode }) {
               <ul className="mt-3 space-y-2 text-sm">
                 <li className="flex items-center justify-between gap-3">
                   <span className="text-white/85">RAL 20.000 €</span>
-                  <span className="font-bold text-white">1.360,08 €/mese</span>
+                  <span className="font-bold text-white">1.374,07 €/mese</span>
                 </li>
                 <li className="flex items-center justify-between gap-3">
                   <span className="text-white/85">RAL 25.000 €</span>
@@ -63,7 +63,7 @@ export function HomeHero({ calculator }: { calculator: ReactNode }) {
                   <span className="font-bold text-white">3° scaglione</span>
                 </li>
               </ul>
-              <Link href="/scaglioni-irpef-2026/" className="mt-3 inline-block text-xs font-bold text-[#C6F24E] underline-offset-2 hover:underline">
+              <Link href="/scaglioni-irpef/" className="mt-3 inline-block text-xs font-bold text-[#C6F24E] underline-offset-2 hover:underline">
                 Vedi tutti i dettagli →
               </Link>
             </div>

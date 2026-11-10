@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { calculateSalary, cuneo65, employmentDeduction, familyDeductions, irpefGross } from "./calculate";
+import { calculateSalary, cuneo65, employmentDeduction, familyDeductions, irpefGross, sommaIntegrativa } from "./calculate";
 import { parseItalianAmount, parseSalaryForm } from "./parse";
 import { calculateRegionalTax } from "./regions";
 import type { FamilyInput, SalaryInput } from "./types";
@@ -225,12 +225,46 @@ describe("calculateSalary", () => {
   it("does not pay the bonus when article 13 already exceeds gross IRPEF", () => {
     const result = calculateSalary(input({ ral: 9029.84, months: 12 }));
     expect(result.taxableIncome).toBe(8200);
-    expect(result.irpefGross).toBe(1886);
+    expect(result.sommaIntegrativa).toBe(582.2);
+    expect(result.imponibileIrpef).toBe(7617.8);
+    expect(result.irpefGross).toBe(1752.09);
     expect(result.irpefNet).toBe(0);
     expect(result.trattamentoIntegrativo).toBe(0);
-    expect(result.sommaIntegrativa).toBe(0);
     expect(result.regionalTax).toBe(0);
     expect(result.municipalTax).toBe(0);
+  });
+
+  it("applies the somma esclusa for RC up to 20.000 euro", () => {
+    const result = calculateSalary(input({ ral: 20000 }));
+    expect(result.taxableIncome).toBe(18162);
+    expect(result.sommaIntegrativa).toBe(871.78);
+    expect(result.imponibileIrpef).toBe(17290.22);
+    expect(result.irpefGross).toBe(3976.75);
+    expect(result.irpefNet).toBe(1166.19);
+    expect(result.trattamentoIntegrativo).toBe(1166.19);
+    expect(result.regionalTax).toBe(212.67);
+    expect(result.municipalTax).toBe(86.45);
+    expect(result.netAnnual).toBe(17862.88);
+    expect(result.netMonthly).toBe(1374.07);
+    expect(identity(result)).toBe(result.netAnnual);
+  });
+
+  it("applies no somma above 20.000 euro of RC", () => {
+    const result = calculateSalary(input({ ral: 25000 }));
+    expect(result.taxableIncome).toBe(22702.5);
+    expect(result.sommaIntegrativa).toBe(0);
+    expect(result.imponibileIrpef).toBe(22702.5);
+    expect(result.netAnnual).toBe(21683.09);
+    expect(result.netMonthly).toBe(1667.93);
+  });
+
+  it("sommaIntegrativa follows the 7,1 / 5,3 / 4,8 bands and stops above 20.000", () => {
+    expect(sommaIntegrativa(8500)).toBe(603.5);
+    expect(sommaIntegrativa(8501)).toBe(450.55);
+    expect(sommaIntegrativa(15000)).toBe(795);
+    expect(sommaIntegrativa(20000)).toBe(960);
+    expect(sommaIntegrativa(20001)).toBe(0);
+    expect(sommaIntegrativa(0)).toBe(0);
   });
 
   it("returns the same result for the same input", () => {

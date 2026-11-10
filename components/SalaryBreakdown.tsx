@@ -31,7 +31,16 @@ function BreakdownTable({ result }: { result: SalaryResult }) {
         ? `9,19% su ${formatEuro(result.inpsOrdinaryBase)}, più 1% su ${formatEuro(result.inpsExtraBase)}`
         : `9,19% su ${formatEuro(result.inpsOrdinaryBase)}`,
     },
-    { label: "Imponibile usato per l’IRPEF", amount: formatEuro(result.taxableIncome), hint: "RAL meno i contributi" },
+    ...(result.sommaIntegrativa > 0
+      ? [
+          {
+            label: "Somma non imponibile (taglio del cuneo)",
+            amount: `− ${formatEuro(result.sommaIntegrativa)}`,
+            hint: "Non concorre a formare il reddito fino a 20.000 € di reddito complessivo",
+          },
+        ]
+      : []),
+    { label: "Imponibile usato per l’IRPEF", amount: formatEuro(result.imponibileIrpef), hint: result.sommaIntegrativa > 0 ? "Reddito complessivo meno la somma non imponibile" : "RAL meno i contributi" },
     { label: "IRPEF lorda", amount: formatEuro(result.irpefGross), hint: "Aliquote 23%, 33% e 43%" },
     { label: "Detrazione per lavoro dipendente", amount: `− ${formatEuro(result.employmentDeduction)}`, hint: "Articolo 13 del TUIR, senza la maggiorazione di 65 €" },
     { label: "Maggiorazione di 65 €", amount: `− ${formatEuro(result.cuneo65)}`, hint: "Voce propria del cuneo, se l’imponibile è superiore a 25.000 € e non superiore a 35.000 €" },

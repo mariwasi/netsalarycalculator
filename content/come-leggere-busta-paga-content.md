@@ -49,7 +49,7 @@ Il risultato di questa sottrazione è l'**imponibile fiscale**, il numero su cui
 
 Sull'imponibile fiscale il datore trattiene tre cose:
 
-1. **IRPEF netta**: l'imposta calcolata con gli [scaglioni](/scaglioni-irpef-2026/) meno le detrazioni. In busta è una rata mensile stimata: il calcolo definitivo sull'anno intero arriva col **conguaglio** di dicembre. Vicino alla voce trovi di solito l'indicazione delle detrazioni richieste: se hai diritto a detrazioni per coniuge o figli e la busta non le applica, stai anticipando soldi allo Stato che recupererai solo col 730 — chiedi l'attivazione all'azienda, si fa con un semplice modulo.
+1. **IRPEF netta**: l'imposta calcolata con gli [scaglioni](/scaglioni-irpef/) meno le detrazioni. In busta è una rata mensile stimata: il calcolo definitivo sull'anno intero arriva col **conguaglio** di dicembre. Vicino alla voce trovi di solito l'indicazione delle detrazioni richieste: se hai diritto a detrazioni per coniuge o figli e la busta non le applica, stai anticipando soldi allo Stato che recupererai solo col 730 — chiedi l'attivazione all'azienda, si fa con un semplice modulo.
 2. **Addizionale regionale**: trattenuta in **11 rate** nell'anno (è il saldo dell'anno precedente più l'acconto). Ecco perché tra gennaio e novembre il netto è un po' più basso e a dicembre cambia di nuovo.
 3. **Addizionale comunale**: l'acconto è il 30% dell'imposta, diviso in **9 rate** da marzo a novembre.
 

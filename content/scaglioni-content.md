@@ -1,6 +1,6 @@
 <!--
   INSTRUCTIONS FOR CURSOR (not page content):
-  Page: /scaglioni-irpef-2026/
+  Page: /scaglioni-irpef/
   Title tag: Scaglioni IRPEF 2026: Tabella, Aliquote e Calcolo
   Meta description: Scaglioni IRPEF 2026: 23% fino a 28.000 €, 33% fino a 50.000 €, 43% oltre. Tabella completa, confronto con il 2025 ed esempi di calcolo verificati.
   H1: first heading below. Place the mini-calculator CTA / link to the homepage calculator

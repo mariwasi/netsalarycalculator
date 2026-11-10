@@ -13,7 +13,7 @@ const links = [
 
 const guideLinks = [
   { href: "/come-si-calcola-stipendio-netto", label: "Come si calcola lo stipendio netto" },
-  { href: "/scaglioni-irpef-2026", label: "Scaglioni IRPEF 2026" },
+  { href: "/scaglioni-irpef", label: "Scaglioni IRPEF 2026" },
   { href: "/busta-paga", label: "Busta paga" },
   { href: "/come-leggere-la-busta-paga", label: "Come leggere la busta paga" },
   { href: "/calcolo-irpef", label: "Calcolo IRPEF" },
