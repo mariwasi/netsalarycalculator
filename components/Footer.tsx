@@ -24,22 +24,22 @@ export function Footer() {
           <p className="text-sm font-semibold text-white">In questa pagina</p>
           <ul className="mt-2 space-y-2 text-sm">
             <li>
-              <a href="#inizio" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
+              <a href="/" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Homepage
               </a>
             </li>
             <li>
-              <a href="#calcolatore" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
+              <a href="/#calcolatore" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Calcolatore
               </a>
             </li>
             <li>
-              <a href="#confronto" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
+              <a href="/#confronto" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Confronto RAL
               </a>
             </li>
             <li>
-              <a href="#domande" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
+              <a href="/#domande" className="transition duration-200 hover:text-white hover:underline hover:decoration-white hover:decoration-2 hover:underline-offset-2">
                 Domande frequenti
               </a>
             </li>

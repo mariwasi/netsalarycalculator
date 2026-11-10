@@ -182,4 +182,4 @@ Nelle pagine di livello, quando saranno pronte, ciascuna riprenderà il calcolo 
 
 Regole fiscali: TUIR (D.P.R. 917/1986), articoli 12 e 13, e Legge di Bilancio 2026 per il secondo scaglione IRPEF al 33%; INPS per le aliquote contributive; esempi numerici ricalcolati a mano e coerenti con il calcolatore del sito. Quadro contrattuale: rinnovo CCNL industria metalmeccanica 22 novembre 2025 (Federmeccanica-Assistal, FIM-FIOM-UILM); minimi dal 1° giugno 2026 come da verbale di accordo del 16 giugno 2026 riportato dalle sigle firmatarie. Le tabelle retributive vengono adeguate ogni giugno: prima di usare questa pagina per una trattativa o una contestazione, verifica minimo e livello sul tuo contratto e sull'ultima busta paga.
 
-*Ultimo aggiornamento: ottobre 2026. Le informazioni hanno carattere divulgativo e non sostituiscono la consulenza di un professionista.*
+*Ultimo aggiornamento: novembre 2026. Le informazioni hanno carattere divulgativo e non sostituiscono la consulenza di un professionista.*

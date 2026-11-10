@@ -320,7 +320,7 @@ nostra politica è questa:
    e, se confermato, lo correggiamo: una pagina di metodologia che non
    ammette correzioni non è una garanzia, è pubblicità.
 
-*Ultimo aggiornamento: ottobre 2026. Le informazioni hanno carattere
+*Ultimo aggiornamento: novembre 2026. Le informazioni hanno carattere
 divulgativo e non sostituiscono la consulenza di un professionista.*
 
 ## Domande frequenti sulla metodologia

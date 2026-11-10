@@ -332,7 +332,7 @@ export function GuideArticle() {
 
           <H2 id="passaggio-6-il-bonus-trattamento-integrativo-ex-bonus-renzi">Passaggio 6: il bonus trattamento integrativo (ex bonus Renzi)</H2>
           <P>
-            Se il reddito complessivo non supera <strong className="text-[#16302A]">28.000 euro</strong> e l&apos;IRPEF lorda è più alta della sola detrazione per lavoro dipendente (condizione di &quot;capienza&quot;), spetta il <strong className="text-[#16302A]">trattamento integrativo</strong>: <strong className="text-[#16302A]">1.200 euro l&apos;anno</strong>, erogati come 100 euro al mese in busta paga. Due avvertenze pratiche:
+            Se il reddito complessivo non supera <strong className="text-[#16302A]">28.000 euro</strong> e l&apos;IRPEF lorda è più alta della sola detrazione per lavoro dipendente (condizione di &quot;capienza&quot;), spetta il <strong className="text-[#16302A]">trattamento integrativo</strong>: <strong className="text-[#16302A]">1.200 euro l&apos;anno</strong>, erogati come 100 euro al mese in busta paga. Un'avvertenza pratica:
           </P>
           <ul className="mb-3.5 list-disc pl-5 text-[#334155]">
             <li className="mb-1.5">
@@ -549,7 +549,7 @@ export function GuideArticle() {
             <li className="mb-1.5">Legge di Bilancio 2025 (L. 207/2024) per la disciplina strutturale del cuneo fiscale.</li>
           </ul>
           <P>
-            <em>Ultimo aggiornamento: ottobre 2026. Le informazioni hanno carattere divulgativo e non sostituiscono la consulenza di un professionista.</em>
+            <em>Ultimo aggiornamento: novembre 2026. Le informazioni hanno carattere divulgativo e non sostituiscono la consulenza di un professionista.</em>
           </P>
 
           <H2 id="domande-frequenti-sulla-guida">Domande frequenti sulla guida</H2>

@@ -112,4 +112,4 @@ Cerca una voce come "netto a pagare" o "netto del mese": la dicitura e la posizi
 
 - [Legge 5 gennaio 1953, n. 4 — Normattiva](https://www.normattiva.it/eli/id/1953/01/27/053U0004/CONSOLIDATED/20260628): obbligo del prospetto paga, CCNL con codice alfanumerico unico e firma del datore di lavoro.
 
-*Ultimo aggiornamento: ottobre 2026.*
+*Ultimo aggiornamento: novembre 2026.*

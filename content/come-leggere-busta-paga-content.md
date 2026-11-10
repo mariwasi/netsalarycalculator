@@ -112,4 +112,4 @@ Prima controlla i riepiloghi in fondo: spesso la quota TFR è tra i dati riepilo
 
 Perché sulla tredicesima il calcolo mensile dell'IRPEF non applica le detrazioni da lavoro dipendente nel modo ordinario: la trattenuta risulta più pesante e il sistema si riequilibra col conguaglio annuale. È normale che il netto della tredicesima sembri "magro" rispetto allo stipendio.
 
-*Ultimo aggiornamento: ottobre 2026.*
+*Ultimo aggiornamento: novembre 2026.*

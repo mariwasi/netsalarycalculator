@@ -162,4 +162,4 @@ Sì. Oltre i 50.000 euro ogni euro aggiuntivo è tassato al 43% più addizionali
 
 Aliquote e scaglioni: articolo 11 del TUIR (DPR 917/1986) come modificato dalla [Legge 30 dicembre 2025, n. 199](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.codiceRedazionale=25G00212&atto.dataPubblicazioneGazzetta=2025-12-30) (Legge di Bilancio 2026). Detrazioni per lavoro dipendente: articolo 13 TUIR. Aliquote delle addizionali: delibere regionali e portale del Dipartimento delle Finanze (MEF). Tutti gli esempi di questa pagina sono stati ricalcolati a mano sugli scaglioni 2026.
 
-*Ultimo aggiornamento: ottobre 2026.*
+*Ultimo aggiornamento: novembre 2026.*

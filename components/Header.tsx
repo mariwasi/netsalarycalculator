@@ -101,7 +101,7 @@ export function Header() {
     <header className="sticky top-0 z-40 border-b border-line bg-white/95 backdrop-blur">
       <div className="mx-auto flex h-32 w-full max-w-[1145px] items-center justify-between px-4 sm:px-6">
         <a
-          href="#inizio"
+          href="/"
           className="group flex flex-col items-start gap-0.5 rounded-2xl px-3 py-1 text-sm font-bold tracking-tight text-forest focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C6F24E] focus-visible:ring-offset-2 md:w-1/5 md:shrink-0"
         >
           <span className="h-24 w-24 overflow-hidden rounded-full transition duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_0_0_3px_rgba(198,242,78,0.9)] active:translate-y-0 active:scale-[0.98]">

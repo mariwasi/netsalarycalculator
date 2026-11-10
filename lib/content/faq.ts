@@ -22,7 +22,7 @@ export const faqItems: readonly FaqItem[] = [
   {
     question: "Le addizionali regionali e comunali sono incluse?",
     answer:
-      "L’addizionale regionale è stimata con le aliquote 2026 pubblicate dal Dipartimento delle Finanze per la regione o provincia autonoma scelta. Se il campo dell’aliquota comunale resta vuoto, il calcolo usa una stima allo 0,5% ed è indicata come stima. Un’aliquota inserita sostituisce la stima. Non c’è un archivio comunale verificato. Non sono applicate le detrazioni regionali per figli o disabilità. Per Bolzano, Trento, Friuli-Venezia Giulia, Lazio, Umbria e Valle d’Aosta il risultato segnala le regole generali che invece sono state applicate.",
+      "L’addizionale regionale è stimata con le aliquote 2026 pubblicate dal Dipartimento delle Finanze per la regione o provincia autonoma scelta. Se il campo dell’aliquota comunale resta vuoto, il calcolo usa una stima allo 0,5% ed è indicata come stima. Un’aliquota inserita sostituisce la stima. Non c’è un archivio comunale verificato. Non sono applicate le detrazioni regionali per figli o disabilità. Per Bolzano, Trento, Friuli-Venezia Giulia, Lazio, Umbria e Valle d’Aosta il risultato indica le regole regionali applicate, con la nota che le spiega.",
   },
   {
     question: "Il risultato del calcolatore è esatto?",

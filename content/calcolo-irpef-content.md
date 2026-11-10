@@ -379,7 +379,7 @@ le detrazioni indicate in voci separate. Il conguaglio di dicembre ricalcola
 l'imposta sull'anno intero e corregge le differenze. La procedura di
 controllo completa è nella guida [come leggere la busta paga](/come-leggere-la-busta-paga/).
 
-*Ultimo aggiornamento: ottobre 2026. Le informazioni hanno carattere
+*Ultimo aggiornamento: novembre 2026. Le informazioni hanno carattere
 divulgativo e non sostituiscono la consulenza di un commercialista o di un
 consulente del lavoro. Fonti normative: TUIR (D.P.R. 917/1986), artt. 11, 12 e
 13; Legge di Bilancio 2026 per il secondo scaglione al 33%; L. 207/2024 per la
