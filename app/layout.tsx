@@ -28,6 +28,20 @@ export const metadata: Metadata = {
     locale: "it_IT",
     type: "website",
     siteName: "StipendioNetto",
+    images: [
+      {
+        url: "/logo.webp",
+        width: 1600,
+        height: 1600,
+        alt: "StipendioNetto — Calcolo Stipendio Netto 2026",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title,
+    description,
+    images: ["/logo.webp"],
   },
 };
 
