@@ -484,7 +484,7 @@ export function GuideArticle() {
               </table>
             </div>
             <P>
-              Nota la detrazione per il figlio: non sono i 950 euro &quot;teorici&quot;, ma 541,35 euro, perché a un reddito di 40.864 euro la formula proporzionale ha già ridotto l&apos;importo del 43%. Chi stima il netto applicando i 950 euro pieni sovrastima il risultato di oltre 400 euro l&apos;anno.
+              Nota la detrazione per il figlio: non sono i 950 euro &quot;teorici&quot;, ma 541,35 euro, perché a un reddito di 40.864 euro la formula proporzionale ha già ridotto l&apos;importo del 43%. La detrazione è calcolata al 100% (unico genitore oppure accordo tra i genitori); con la ripartizione ordinaria al 50% sarebbe 270,68 euro. Chi stima il netto applicando i 950 euro pieni sovrastima il risultato di oltre 400 euro l&apos;anno.
             </P>
           </div>
 

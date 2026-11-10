@@ -236,7 +236,7 @@ export function SalaryForm({
                   <fieldset>
                     <legend className="text-sm font-medium text-ink">Quota della detrazione per i figli</legend>
                     <div className="mt-2 space-y-2 text-sm">
-                      <label className="flex items-start gap-2">
+                      <label className="flex items-start gap-2 text-sm text-ink">
                         <input
                           type="radio"
                           name="quota-figli"
@@ -246,7 +246,7 @@ export function SalaryForm({
                         />
                         50%, ripartizione ordinaria tra i genitori
                       </label>
-                      <label className="flex items-start gap-2">
+                      <label className="flex items-start gap-2 text-sm text-ink">
                         <input
                           type="radio"
                           name="quota-figli"
