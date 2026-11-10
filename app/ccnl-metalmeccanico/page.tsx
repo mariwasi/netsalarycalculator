@@ -5,7 +5,7 @@ import { EditorialJsonLd, EditorialPage } from "@/components/EditorialPage";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { parseEditorial } from "@/lib/editorial/parse";
-import { SITE_URL } from "@/lib/seo";
+import { OG_IMAGES, SITE_URL } from "@/lib/seo";
 
 const title = "CCNL Metalmeccanico 2026: Livelli e Stipendio Netto";
 const description =
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: { absolute: title },
   description,
   alternates: { canonical },
-  openGraph: { title, description, url: canonical, locale: "it_IT", type: "article", siteName: "StipendioNetto" },
+  openGraph: { title, description, url: canonical, locale: "it_IT", type: "article", siteName: "StipendioNetto", images: OG_IMAGES },
 };
 
 export default function CcnlMetalmeccanicoPage() {

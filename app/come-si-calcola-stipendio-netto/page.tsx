@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Footer } from "@/components/Footer";
 import { GuideArticle, guideFaq } from "@/components/GuideArticle";
 import { Header } from "@/components/Header";
-import { SITE_URL } from "@/lib/seo";
+import { OG_IMAGES, SITE_URL } from "@/lib/seo";
 
 const title = "Come si calcola lo stipendio netto: guida 2026";
 const description =
@@ -20,6 +20,7 @@ export const metadata: Metadata = {
     locale: "it_IT",
     type: "article",
     siteName: "StipendioNetto",
+    images: OG_IMAGES,
   },
 };
 

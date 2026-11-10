@@ -9,12 +9,13 @@ import { HomepageArticle } from "@/components/HomepageArticle";
 import { PayslipHighlight } from "@/components/PayslipHighlight";
 import { VerifiedPanel } from "@/components/VerifiedPanel";
 import { faqItems } from "@/lib/content/faq";
+import { OG_IMAGES } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: { absolute: "Calcolo Stipendio Netto 2026: Calcolatore da Lordo a Netto" },
   description:
     "Calcola stipendio netto 2026 da lordo a netto: inserisci la RAL e stima il netto mensile e annuale con IRPEF, INPS, detrazioni e addizionali.",
-  openGraph: { title: "Calcolo Stipendio Netto 2026: Calcolatore da Lordo a Netto" },
+  openGraph: { title: "Calcolo Stipendio Netto 2026: Calcolatore da Lordo a Netto", images: OG_IMAGES },
 };
 
 const faqStructuredData = {

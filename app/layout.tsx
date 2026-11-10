@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import { SITE_URL } from "@/lib/seo";
+import { OG_IMAGES, SITE_URL } from "@/lib/seo";
 import "./globals.css";
 
 const inter = Inter({
@@ -28,14 +28,7 @@ export const metadata: Metadata = {
     locale: "it_IT",
     type: "website",
     siteName: "StipendioNetto",
-    images: [
-      {
-        url: "/logo.webp",
-        width: 1600,
-        height: 1600,
-        alt: "StipendioNetto — Calcolo Stipendio Netto 2026",
-      },
-    ],
+    images: OG_IMAGES,
   },
   twitter: {
     card: "summary_large_image",
