@@ -47,14 +47,13 @@ export function HomepageArticle() {
           <article>
             <h2 id="come-si-calcola" className={heading}>Come si calcola lo stipendio netto dalla RAL?</h2>
             <p className="mt-2">Il percorso seguito dal calcolatore è questo:</p>
-            <p className="mt-2">Ecco il percorso completo da lordo a netto, fino alla busta paga.</p>
             <ol className="mt-2 list-decimal space-y-1 pl-5">
               <li>si parte dalla RAL;</li>
               <li>si tolgono i contributi INPS a carico del lavoratore;</li>
               <li>sull’imponibile si calcola l’IRPEF lorda 2026;</li>
               <li>si sottraggono le detrazioni previste dal modello, senza scendere sotto zero;</li>
               <li>se l’IRPEF resta dovuta, si stimano le addizionali;</li>
-              <li>si aggiungono trattamento integrativo e somma integrativa, solo se spettano.</li>
+              <li>si aggiunge il trattamento integrativo, solo se spetta.</li>
             </ol>
           </article>
 
@@ -64,7 +63,7 @@ export function HomepageArticle() {
               La RAL è il lordo annuo concordato, di solito già comprensivo di tredicesima e, quando prevista, di quattordicesima. Il netto è ciò che resta dopo prelievi e, in alcuni casi, dopo somme che non concorrono al reddito.
             </p>
             <p className="mt-2">
-              Due persone con la stessa RAL possono avere netti diversi: cambiano la regione, l’aliquota comunale, il numero di mensilità abbastanza alto da far scattare il contributo aggiuntivo, i familiari a carico e il massimale contributivo.
+              Due persone con la stessa RAL possono avere netti diversi: cambiano la regione, l’aliquota comunale, il numero di mensilità (meno mensilità, più alta la retribuzione mensile: sopra 4.685 € al mese scatta il contributo aggiuntivo dell&apos;1%), i familiari a carico e il massimale contributivo.
             </p>
           </article>
 
@@ -216,7 +215,7 @@ export function HomepageArticle() {
               </table>
             </div>
             <p className="mt-3">
-              Per il calcolo stipendio netto mensile di altre RAL, trovi le pagine dedicate: stipendio netto RAL 25.000, RAL 35.000, RAL 40.000, RAL 50.000. Nella{" "}
+              Per il calcolo stipendio netto mensile di altre RAL, le pagine dedicate (RAL 25.000, RAL 35.000, RAL 40.000, RAL 50.000) sono in preparazione. Nella{" "}
               <a href="/come-si-calcola-stipendio-netto/" className="text-forest-deep underline underline-offset-2 hover:text-forest">
                 guida completa al calcolo
               </a>{" "}

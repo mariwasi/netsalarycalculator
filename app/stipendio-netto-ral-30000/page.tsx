@@ -32,7 +32,7 @@ export default function StipendioNettoRal30000Page() {
           stats={[
             { value: "1.903,85 €", label: "Netto mensile, RAL 30.000 € · Lombardia, 13 mensilità", tone: "lime" },
             { value: "24.750,10 €", label: "Netto annuo, stesso caso", tone: "dark" },
-            { value: "1.893,38–1.929,63 €", label: "Netto mensile per regione, RAL 30.000 €", tone: "dark" },
+            { value: "1.887,09–1.929,63 €", label: "Netto mensile per regione, RAL 30.000 €", tone: "dark" },
           ]}
           chips={["ral 30000 stipendio netto", "30000 euro lordi quanto sono netti", "mensilità", "addizionale regionale", "busta paga"]}
           callout="Ipotesi: dipendente privato, tempo indeterminato, anno intero, nessun familiare a carico, regole 2026. Il bonus di 1.200 € è incluso dove spetta; l'addizionale comunale è una stima dello 0,5%; l'addizionale regionale è l'aliquota base della regione."

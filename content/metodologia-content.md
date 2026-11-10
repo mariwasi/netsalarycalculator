@@ -142,9 +142,9 @@ detrazione effettiva è:
 **950 € × (95.000 + 15.000 × (n − 1) − RC) / (95.000 + 15.000 × (n − 1))**
 
 dove *n* è il numero di figli a carico e RC il reddito complessivo. La
-stessa logica proporzionale vale per gli altri familiari conviventi
-(750 euro teorici × (80.000 − RC) / 80.000) e, con la sua tabella, per il
-coniuge a carico (da 575 a 800 euro a seconda del reddito). Chi stima il
+stessa logica proporzionale vale per gli ascendenti conviventi
+(genitori e nonni, 750 euro teorici × (80.000 − RC) / 80.000) e, con la sua tabella, per il
+coniuge a carico (da 690 a 800 euro a seconda del reddito). Chi stima il
 netto applicando i 950 euro pieni sovrastima il risultato anche di
 centinaia di euro l'anno: il secondo esempio qui sotto lo mostra con i
 numeri.
@@ -169,15 +169,16 @@ L'addizionale regionale usa aliquote base diverse per regione:
 
 | Aliquota base | Regioni |
 |---|---|
-| 0,70% | Friuli-Venezia Giulia |
-| 1,20% | Valle d'Aosta |
-| 1,23% | Lombardia, Liguria, Marche, Sardegna, Sicilia, Umbria, Veneto, Basilicata, Trentino-Alto Adige (incluse le province di Trento e Bolzano) |
+| 0,70% fino a 15.000 €, poi 1,23% | Friuli-Venezia Giulia |
+| 1,23% | Lombardia, Liguria, Marche, Sardegna, Sicilia, Umbria, Veneto, Basilicata, Trentino-Alto Adige (incluse le province di Trento e Bolzano), Valle d'Aosta |
 | 1,33% | Emilia-Romagna, Puglia |
 | 1,42% | Toscana |
 | 1,62% | Piemonte |
 | 1,67% | Abruzzo |
-| 1,73% | Lazio, Molise |
-| 2,03% | Calabria, Campania |
+| 1,73% | Calabria, Campania, Lazio |
+| 2,03% | Molise |
+
+In Valle d'Aosta fino a 15.000 € di reddito complessivo l'addizionale non è dovuta; Trento e Bolzano applicano detrazioni provinciali che possono azzerarla a questi livelli di reddito (vedi la tabella per regione nelle pagine RAL).
 
 Il calcolatore usa l'aliquota base della regione: alcune regioni applicano
 scaglioni di reddito, e in quel caso il risultato è una stima. L'addizionale
@@ -356,8 +357,8 @@ strumento, non dopo.
 ### Cosa devo controllare nel mio CCNL prima di fidarmi del risultato?
 Le mensilità previste (12, 13 o 14), il livello e il minimo retributivo,
 e gli eventuali contributi di categoria che riducono leggermente il
-netto. Il resto del calcolo fiscale non dipende dal contratto: le pagine
-dedicate al [CCNL Metalmeccanico](/ccnl-metalmeccanico/) e al [CCNL Commercio](/ccnl-commercio/) riportano i minimi per livello.
+netto. Il resto del calcolo fiscale non dipende dal contratto: la pagina
+dedicata al [CCNL Metalmeccanico](/ccnl-metalmeccanico/) riporta i minimi per livello; quella del [CCNL Commercio](/ccnl-commercio/) spiega i livelli ma non pubblica una tabella di minimi.
 
 ### Posso utilizzare il risultato per una dichiarazione fiscale?
 No. Il risultato è informativo e non sostituisce una dichiarazione dei

@@ -32,7 +32,7 @@ export default function StipendioNettoRal28000Page() {
           stats={[
             { value: "1.811,49 €", label: "Netto mensile, RAL 28.000 € · Lombardia, 13 mensilità", tone: "lime" },
             { value: "23.549,31 €", label: "Netto annuo, stesso caso", tone: "dark" },
-            { value: "1.801,71–1.835,54 €", label: "Netto mensile per regione, RAL 28.000 €", tone: "dark" },
+            { value: "1.795,84–1.835,54 €", label: "Netto mensile per regione, RAL 28.000 €", tone: "dark" },
           ]}
           chips={["ral 28000 stipendio netto", "28000 euro lordi quanto sono netti", "mensilità", "addizionale regionale", "busta paga"]}
           callout="Ipotesi: dipendente privato, tempo indeterminato, anno intero, nessun familiare a carico, regole 2026. Il bonus di 1.200 € è incluso dove spetta; l'addizionale comunale è una stima dello 0,5%; l'addizionale regionale è l'aliquota base della regione."

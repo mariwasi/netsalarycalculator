@@ -44,7 +44,7 @@ Due controlli che vale la pena fare su questa tabella. Primo: il netto è l'**84
 
 ## Tabella: netto mensile per regione (RAL 28.000 €, 13 mensilità)
 
-A parità di RAL, il netto cambia con la regione: l'unica voce che si muove è l'addizionale regionale. IRPEF, contributi e bonus sono uguali ovunque; l'addizionale comunale è stimata allo 0,5% per tutte le regioni. La differenza tra la regione più alta e la più bassa è di **33,83 € al mese**.
+A parità di RAL, il netto cambia con la regione: l'unica voce che si muove è l'addizionale regionale. IRPEF, contributi e bonus sono uguali ovunque; l'addizionale comunale è stimata allo 0,5% per tutte le regioni. La differenza tra la regione più alta e la più bassa è di **39,70 € al mese**.
 
 | Regione | Addizionale regionale | Netto mensile (13 mensilità) |
 |---|---|---|
@@ -59,7 +59,7 @@ A parità di RAL, il netto cambia con la regione: l'unica voce che si muove è l
 | Liguria | 312,75 € | 1.811,49 € |
 | Lombardia | 312,75 € | 1.811,49 € |
 | Marche | 312,75 € | 1.811,49 € |
-| Molise | 439,88 € | 1.801,71 € |
+| Molise | 516,16 € | 1.795,84 € |
 | Piemonte | 411,91 € | 1.803,86 € |
 | Puglia | 338,18 € | 1.809,53 € |
 | Sardegna | 312,75 € | 1.811,49 € |
@@ -84,7 +84,7 @@ Se la tua RAL non è 28.000 €, i valori vicini sono: RAL 25.000 € → 1.667,
 
 ### 28000 euro lordi quanto sono netti al mese?
 
-Con una RAL di 28.000 €, in Lombardia, 13 mensilità e nessun familiare a carico, il netto è **1.811,49 € al mese** (23.549,31 € l'anno). Con 12 mensilità sono 1.962,44 € al mese, con 14 mensilità 1.682,09 € al mese; il netto annuo non cambia. In altre regioni il valore va da 1.801,71 € a 1.835,54 € al mese (vedi la tabella per regione).
+Con una RAL di 28.000 €, in Lombardia, 13 mensilità e nessun familiare a carico, il netto è **1.811,49 € al mese** (23.549,31 € l'anno). Con 12 mensilità sono 1.962,44 € al mese, con 14 mensilità 1.682,09 € al mese; il netto annuo non cambia. In altre regioni il valore va da 1.795,84 € a 1.835,54 € al mese (vedi la tabella per regione).
 
 ### 28000 lordi quanto sono netti con 14 mensilità?
 
@@ -92,6 +92,6 @@ Con una RAL di 28.000 €, in Lombardia, 13 mensilità e nessun familiare a cari
 
 ### La RAL di 28.000 € cambia con la regione?
 
-Sì, ma di poco: il netto mensile va da **1.801,71 €** (Calabria, Campania, Lazio, Molise) a **1.835,54 €** (Bolzano e Trento, dove le detrazioni provinciali azzerano l'addizionale a questo livello di reddito). In Lombardia è 1.811,49 €. La differenza tra la regione più alta e la più bassa è di 33,83 € al mese.
+Sì, ma di poco: il netto mensile va da **1.795,84 €** (Molise) a **1.835,54 €** (Bolzano e Trento, dove le detrazioni provinciali azzerano l'addizionale a questo livello di reddito). In Lombardia è 1.811,49 €. La differenza tra la regione più alta e la più bassa è di 39,70 € al mese.
 
 *Ultimo aggiornamento: novembre 2026. Le informazioni hanno carattere divulgativo e non sostituiscono la consulenza di un commercialista o di un consulente del lavoro. Fonti normative: TUIR (D.P.R. 917/1986), artt. 11, 12 e 13; Legge di Bilancio 2026 (L. 199/2025) per il secondo scaglione al 33%; L. 207/2024 per la disciplina strutturale del cuneo fiscale. Le aliquote regionali sono le aliquote base di gennaio 2026; come sono modellate è spiegato nella [metodologia](/metodologia/).*

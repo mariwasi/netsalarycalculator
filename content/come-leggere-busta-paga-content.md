@@ -11,7 +11,7 @@
 
 # Come leggere la busta paga: la guida passo passo, con un esempio vero
 
-La busta paga media contiene più di quaranta voci busta paga. Non serve capirle tutte: serve sapere **dove guardare** e **quali numeri devono tornare**. Questa guida spiega come leggere busta paga, passo passo, e come leggere buste paga di aziende diverse: le sezioni sono sempre le stesse quattro — testata, competenze, trattenute, riepiloghi — e i controlli che contano sono sempre questi. Busta paga come leggere: questa guida ti porta dentro un busta paga esempio vero, sezione per sezione, con un esempio numerico che puoi seguire con la tua busta alla mano. Alla fine trovi la checklist da cinque minuti da ripetere ogni mese.
+La busta paga media contiene più di quaranta voci. Non serve capirle tutte: serve sapere **dove guardare** e **quali numeri devono tornare**. Questa guida spiega come leggere busta paga, passo passo, e come leggere buste paga di aziende diverse: le sezioni sono sempre le stesse quattro — testata, competenze, trattenute, riepiloghi — e i controlli che contano sono sempre questi. Questa guida ti porta dentro un esempio vero di busta paga, sezione per sezione, con un esempio numerico che puoi seguire con la tua busta alla mano. Alla fine trovi la checklist da cinque minuti da ripetere ogni mese.
 
 Un'avvertenza prima di iniziare: non esiste un formato unico. Il tuo cedolino può essere impaginato in modo diverso da quello di un collega di un'altra azienda, perché dipende dal software paghe. Ma le sezioni sono sempre le stesse quattro — testata, competenze, trattenute, riepiloghi — e i controlli che contano sono sempre questi.
 
@@ -31,7 +31,7 @@ Subito sotto la testata trovi il registro del mese: giorni e ore lavorati, giorn
 
 Questa è la sezione "in positivo". Voce per voce:
 
-- **Paga base**: deve essere uguale o superiore al minimo del tuo CCNL e livello. Se è più bassa, c'è un problema serio. Puoi confrontarla con le nostre pagine per [Metalmeccanico](/ccnl-metalmeccanico/) e [Commercio](/ccnl-commercio/), che spiegano i livelli e come si calcola il netto.
+- **Paga base**: deve essere uguale o superiore al minimo del tuo CCNL e livello. Se è più bassa, c'è un problema serio. Puoi confrontarla con la pagina del [Metalmeccanico](/ccnl-metalmeccanico/), che pubblica i minimi per livello; la pagina del [Commercio](/ccnl-commercio/) spiega i livelli ma non pubblica una tabella di minimi.
 - **Contingenza ed EDR**: importi fissi e storici; l'EDR è di 10,33 €.
 - **Scatti di anzianità**: se lavori da anni nella stessa azienda e questa voce non compare (o non cresce mai), chiedi il perché all'ufficio del personale. Gli scatti maturano automaticamente secondo il CCNL: non vanno richiesti, ma vanno controllati.
 - **Superminimo**: controlla se è marcato come "assorbibile". In quel caso i prossimi aumenti contrattuali potrebbero non alzare il tuo lordo: verranno assorbiti da questa voce.

@@ -112,7 +112,7 @@ Anche nello scaglione più alto, metà dell'aumento resta in tasca: **rifiutare 
 
 ## Le addizionali non sono scaglioni (ma si sommano)
 
-Regione e Comune applicano ciascuno **un'unica aliquota** sul tuo imponibile: non hanno scaglioni propri, a parte alcune Regioni che modulano l'aliquota per fasce. L'addizionale regionale di base va dallo 0,70% (Friuli-Venezia Giulia) al 2,03% (Calabria e Campania), quella comunale arriva di norma fino allo 0,8% (0,9% a Roma). Ai fini pratici si comportano come un aumento della tua aliquota marginale: se sei nel secondo scaglione in Lombardia, la tua marginale reale è circa 33% + 1,23% + addizionale comunale. La tabella completa delle aliquote regionali è nella [pagina principale del calcolatore](/).
+Regione e Comune applicano ciascuno un'aliquota sul tuo imponibile: alcune Regioni usano un'aliquota unica, altre la modulano per fasce di reddito. L'addizionale regionale di base va dallo 0,70% (Friuli-Venezia Giulia) al 2,03% (Molise), quella comunale arriva di norma fino allo 0,8% (0,9% a Roma). Ai fini pratici si comportano come un aumento della tua aliquota marginale: se sei nel secondo scaglione in Lombardia, la tua marginale reale è circa 33% + 1,72% + addizionale comunale. La tabella completa delle aliquote regionali è nella [metodologia](/metodologia/).
 
 ## Breve storia degli scaglioni: da cinque a tre
 
@@ -123,7 +123,7 @@ Regione e Comune applicano ciascuno **un'unica aliquota** sul tuo imponibile: no
 | 2024–2025 | 3 aliquote: 23% / 35% / 43% (primo scaglione esteso a 28.000 €) |
 | 2026 | 3 aliquote: 23% / **33%** / 43% |
 
-La direzione di dieci anni di riforme è costante: meno scaglioni e seconda aliquota più bassa. Chi confronta una busta paga di oggi con una del 2021 deve tenere conto di tutte e tre le riforme, non solo dell'ultima.
+La direzione di cinque anni di riforme è costante: meno scaglioni e seconda aliquota più bassa. Chi confronta una busta paga di oggi con una del 2021 deve tenere conto di tutte e tre le riforme, non solo dell'ultima.
 
 ## Errori comuni sulle tabelle che trovi online
 
@@ -156,7 +156,7 @@ Sull'anno. Il datore di lavoro applica le aliquote in modo progressivo e provvis
 
 ### Superare i 50.000 euro di imponibile conviene sempre?
 
-Sì. Oltre i 50.000 euro ogni euro aggiuntivo è tassato al 43% più addizionali — circa il 45,5% in totale — quindi di un aumento di 1.000 euro restano comunque in tasca più di 500 euro netti (al netto anche dei contributi, l'importo resta intorno alla metà). Non esiste un livello di reddito in cui guadagnare di più faccia diminuire il netto annuo.
+Sì. Oltre i 50.000 euro ogni euro aggiuntivo è tassato al 43% più addizionali — circa il 45,5% in totale — quindi di un aumento di 1.000 euro restano comunque in tasca circa 500 euro netti (al netto anche dei contributi, l'importo resta intorno alla metà). Non esiste un livello di reddito in cui guadagnare di più faccia diminuire il netto annuo.
 
 ## Fonti e aggiornamento
 

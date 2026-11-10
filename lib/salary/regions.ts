@@ -153,9 +153,9 @@ const REGION_LIST: readonly RegionDefinition[] = [
     { upTo: LAST, basisPoints: 173 },
   ]),
   standard("molise", "Molise", [
-    { upTo: 15000, basisPoints: 173 },
-    { upTo: 28000, basisPoints: 193 },
-    { upTo: 50000, basisPoints: 333 },
+    { upTo: 15000, basisPoints: 203 },
+    { upTo: 28000, basisPoints: 223 },
+    { upTo: 50000, basisPoints: 263 },
     { upTo: LAST, basisPoints: 333 },
   ]),
   standard("piemonte", "Piemonte", [

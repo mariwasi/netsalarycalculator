@@ -25,7 +25,7 @@ export const guideFaq = [
   {
     question: "Posso calcolare il netto per la mia situazione specifica?",
     answer:
-      "Sì: il calcolatore in homepage applica tutti i passaggi di questa guida alla tua RAL, regione, mensilità e familiari a carico. Per gli orari ridotti il netto è proporzionale alle ore lavorate, per i contratti collettivi le pagine CCNL Metalmeccanico e CCNL Commercio.",
+      "Sì: il calcolatore in homepage applica tutti i passaggi di questa guida alla tua RAL, regione, mensilità e familiari a carico. Per gli orari ridotti il netto non scala in proporzione alle ore: le detrazioni per lavoro dipendente e il cuneo fiscale restano intere, quindi dimezzare le ore fa scendere il netto meno della metà. Per i contratti collettivi, le pagine dedicate sono il CCNL Metalmeccanico e il CCNL Commercio.",
   },
 ] as const;
 
@@ -291,7 +291,7 @@ export function GuideArticle() {
               la detrazione non può essere inferiore a <strong className="text-[#16302A]">690 euro</strong> per i contratti a tempo indeterminato e a <strong className="text-[#16302A]">1.380 euro</strong> per quelli a tempo determinato (per rapporti inferiori all&apos;anno questi minimi non si riproporzionano ai giorni);
             </li>
             <li className="mb-1.5">
-              la detrazione non può mai superare l&apos;IRPEF lorda: l&apos;eventuale eccesso non viene rimborsato, salvo alimentare il bonus di cui al passaggio successivo.
+              la detrazione non può mai superare l&apos;IRPEF lorda: l&apos;eventuale eccesso non viene rimborsato. Se la detrazione supera l&apos;IRPEF lorda, il bonus non spetta perché manca la capienza.
             </li>
           </ul>
           <P>
@@ -316,15 +316,18 @@ export function GuideArticle() {
           <DataTable
             headers={["Reddito complessivo", "Detrazione coniuge"]}
             rows={[
-              ["fino a 15.000 €", "800 €"],
+              ["fino a 15.000 €", "800 € − 110 € × RC / 15.000"],
               ["da 15.001 a 40.000 €", "690 €"],
               ["da 40.001 a 80.000 €", "690 € × (80.000 − RC) / 40.000"],
               ["oltre 80.000 €", "0 €"],
             ]}
           />
+          <P>
+            Per redditi tra 29.001 e 35.200 euro sono previste piccole maggiorazioni (da 10 a 30 euro); il calcolatore non le applica perché incidono per pochi euro.
+          </P>
           <H3>Altri familiari conviventi</H3>
           <P>
-            Per genitori, suoceri, fratelli e sorelle conviventi e fiscalmente a carico spetta una detrazione teorica di <strong className="text-[#16302A]">750 euro</strong> ciascuno, ridotta con la stessa logica proporzionale: <strong className="text-[#16302A]">750 € × (80.000 − RC) / 80.000</strong>.
+            Per i genitori e i nonni conviventi e fiscalmente a carico spetta una detrazione teorica di <strong className="text-[#16302A]">750 euro</strong> ciascuno, ridotta con la stessa logica proporzionale: <strong className="text-[#16302A]">750 € × (80.000 − RC) / 80.000</strong>. Dal 2025 (L. 207/2024) fratelli, sorelle, suoceri, generi e nuore non rientrano più in questa detrazione.
           </P>
 
           <H2 id="passaggio-6-il-bonus-trattamento-integrativo-ex-bonus-renzi">Passaggio 6: il bonus trattamento integrativo (ex bonus Renzi)</H2>
@@ -335,9 +338,6 @@ export function GuideArticle() {
             <li className="mb-1.5">
               il datore di lavoro lo anticipa in base al reddito presunto: se a fine anno il reddito effettivo supera i 28.000 euro (per un secondo lavoro, un premio o il conguaglio tra più CU), il bonus va <strong className="text-[#16302A]">restituito</strong> in dichiarazione o nel conguaglio stesso;
             </li>
-            <li className="mb-1.5">
-              per i redditi più bassi, quando l&apos;IRPEF lorda è inferiore alla detrazione, il bonus non spetta in busta paga ma può essere riconosciuto in sede di dichiarazione dei redditi, se ne ricorrono le condizioni.
-            </li>
           </ul>
 
           <H2 id="passaggio-7-le-addizionali-regionali-e-comunali">Passaggio 7: le addizionali regionali e comunali</H2>
@@ -346,17 +346,19 @@ export function GuideArticle() {
           <DataTable
             headers={["Aliquota base", "Regioni"]}
             rows={[
-              ["0,70%", "Friuli-Venezia Giulia"],
-              ["1,20%", "Valle d'Aosta"],
-              ["1,23%", "Basilicata, Liguria, Lombardia, Marche, Sardegna, Sicilia, Trentino-Alto Adige, Umbria, Veneto"],
+              ["0,70% fino a 15.000 €, poi 1,23%", "Friuli-Venezia Giulia"],
+              ["1,23%", "Basilicata, Liguria, Lombardia, Marche, Sardegna, Sicilia, Trentino-Alto Adige, Umbria, Valle d'Aosta, Veneto"],
               ["1,33%", "Emilia-Romagna, Puglia"],
               ["1,42%", "Toscana"],
               ["1,62%", "Piemonte"],
               ["1,67%", "Abruzzo"],
-              ["1,73%", "Lazio, Molise"],
-              ["2,03%", "Calabria, Campania"],
+              ["1,73%", "Calabria, Campania, Lazio"],
+              ["2,03%", "Molise"],
             ]}
           />
+          <P>
+            In Valle d&apos;Aosta fino a 15.000 € di reddito complessivo l&apos;addizionale non è dovuta; Trento e Bolzano applicano detrazioni provinciali che possono azzerarla a questi livelli di reddito (vedi la tabella per regione nelle pagine RAL).
+          </P>
           <P>
             L&apos;<strong className="text-[#16302A]">addizionale comunale</strong> è deliberata da ogni Comune entro un massimo dello 0,8% (0,9% per Roma Capitale), spesso con una soglia di esenzione per i redditi bassi: l&apos;aliquota esatta del tuo Comune si consulta sul portale del Ministero dell&apos;Economia e delle Finanze. In busta paga le addizionali non si pagano mese per mese nell&apos;anno in cui il reddito si forma: la regionale si rateizza in <strong className="text-[#16302A]">11 rate</strong> da gennaio a novembre dell&apos;anno successivo, la comunale con un acconto del 30% in 9 rate e il saldo l&apos;anno dopo ancora. È il motivo per cui il netto di gennaio e febbraio è di solito leggermente più alto di quello dei mesi successivi.
           </P>
@@ -557,7 +559,7 @@ export function GuideArticle() {
                 <summary className="cursor-pointer font-extrabold text-[#16302A]">{item.question}</summary>
                 {item.question === "Posso calcolare il netto per la mia situazione specifica?" ? (
                   <p className="mt-2.5 text-base leading-relaxed text-[#334155]">
-                    Sì: il <Link href="/" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">calcolatore in homepage</Link> applica tutti i passaggi di questa guida alla tua RAL, regione, mensilità e familiari a carico. Per gli orari ridotti il netto è proporzionale alle ore lavorate, per i contratti collettivi le pagine <Link href="/ccnl-metalmeccanico" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">CCNL Metalmeccanico</Link> e <Link href="/ccnl-commercio" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">CCNL Commercio</Link>.
+                    Sì: il <Link href="/" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">calcolatore in homepage</Link> applica tutti i passaggi di questa guida alla tua RAL, regione, mensilità e familiari a carico. Per gli orari ridotti il netto non scala in proporzione alle ore: le detrazioni per lavoro dipendente e il cuneo fiscale restano intere, quindi dimezzare le ore fa scendere il netto meno della metà. Per i contratti collettivi, le pagine dedicate sono il <Link href="/ccnl-metalmeccanico" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">CCNL Metalmeccanico</Link> e il <Link href="/ccnl-commercio" className="text-[#00695C] underline decoration-[#00695C] underline-offset-2 transition duration-200 hover:text-lime hover:decoration-lime hover:decoration-2">CCNL Commercio</Link>.
                   </p>
                 ) : (
                   <p className="mt-2.5 text-base leading-relaxed text-[#334155]">{item.answer}</p>

@@ -33,7 +33,7 @@ Restano fuori dalla RAL:
 - i **contributi a carico del datore di lavoro** (INPS, INAIL): sono un costo dell'azienda, non retribuzione;
 - gli **straordinari** e i **premi variabili**, che dipendono dal mese e dall'anno;
 - i **rimborsi spese** e i **buoni pasto** entro i limiti di legge;
-- i **fringe benefit** entro la franchigia di 1.000 € l'anno (regole 2025–2027, L. 207/2024).
+- i **fringe benefit** entro la franchigia di 1.000 € l'anno (2.000 € per chi ha figli a carico; regole 2025–2027, L. 207/2024).
 
 Questo elenco spiega perché moltiplicare per 13 la busta paga di un mese "buono" — con straordinari o un premio — sovrastima la RAL: le voci variabili non fanno parte della retribuzione annua pattuita.
 
@@ -49,7 +49,7 @@ Se conosci la RAL e vuoi la mensilità lorda, dividi: 30.000 € / 13 = **2.307,
 
 In busta paga non esiste una riga che si chiama "RAL". Per ricostruirla ci sono due strade:
 
-- **Il progressivo di dicembre.** La busta paga di dicembre riporta i progressivi annui: il progressivo dell'imponibile previdenziale è la somma dei lordi dell'anno. Se hai lavorato l'anno intero senza variazioni, quel progressivo — sommato ai contributi — si avvicina alla RAL.
+- **Il progressivo di dicembre.** La busta paga di dicembre riporta i progressivi annui: il progressivo dell'imponibile previdenziale è la somma dei lordi dell'anno. Se hai lavorato l'anno intero senza variazioni, quel progressivo da solo si avvicina alla RAL. Il progressivo dell'imponibile fiscale, invece, è il lordo meno i contributi: sommando i contributi a quel progressivo ti avvicini alla RAL.
 - **La Certificazione Unica (CU).** Il punto 1 della CU riporta i "redditi di lavoro dipendente": è il totale dei redditi dell'anno, che per un dipendente senza altri redditi coincide con l'imponibile (RAL meno contributi INPS).
 
 Se il contratto è cambiato durante l'anno (aumento, cambio di livello, passaggio da part-time a full-time), il progressivo di dicembre non è la RAL attuale: in quel caso la RAL è quella scritta nell'ultima lettera di assunzione o nella comunicazione di variazione. La procedura completa per leggere la busta paga riga per riga è nella guida [come leggere la busta paga](/come-leggere-la-busta-paga/).
@@ -60,7 +60,7 @@ Dalla RAL allo stipendio netto ci sono cinque passaggi, sempre gli stessi. Li ri
 
 1. **Contributi INPS.** Dalla RAL sottrai i contributi a carico del lavoratore: **9,19%** per un dipendente del settore privato (5,84% per gli apprendisti). Ottieni il reddito imponibile.
 2. **IRPEF lorda.** Sull'imponibile applichi gli scaglioni 2026: **23%** fino a 28.000 €, **33%** da 28.001 a 50.000 €, **43%** oltre 50.000 €. Il 33% è la novità del 2026: prima era il 35%.
-3. **Detrazioni.** Dall'IRPEF lorda sottrai la detrazione per lavoro dipendente (art. 13 TUIR, fino a 1.955 € con il meccanismo a scalare), la detrazione del cuneo fiscale (**1.000 €** pieni tra 20.000 e 32.000 € di reddito, poi decrescente fino a zero a 40.000 €, più 65 € tra 25.000 e 35.000 €) e, se spettano, le detrazioni per familiari a carico. Sotto i 20.000 € il cuneo agisce invece come somma esclusa dall'imponibile, non come detrazione.
+3. **Detrazioni.** Dall'IRPEF lorda sottrai la detrazione per lavoro dipendente (art. 13 TUIR, fino a 1.955 € con il meccanismo a scalare), la detrazione del cuneo fiscale (**1.000 €** pieni tra 20.000 e 32.000 € di reddito, poi decrescente fino a zero a 40.000 €) e la maggiorazione di 65 € della detrazione per lavoro dipendente tra 25.000 e 35.000 €, e, se spettano, le detrazioni per familiari a carico. Sotto i 20.000 € il cuneo agisce invece come somma esclusa dall'imponibile, non come detrazione.
 4. **Addizionali.** All'IRPEF netta aggiungi l'addizionale regionale e quella comunale, calcolate sullo stesso imponibile. In Lombardia il calcolatore usa l'aliquota base dell'1,23% come stima; la comunale è stimata allo 0,5%.
 5. **Trattamento integrativo.** Se il reddito complessivo non supera 28.000 € e l'IRPEF lorda supera la detrazione per lavoro dipendente, si aggiungono **1.200 € l'anno** (100 € al mese). Il test si fa sul reddito complessivo dopo l'INPS, non sulla RAL.
 
@@ -104,7 +104,7 @@ Tutti i valori sono per un dipendente privato, tempo indeterminato, senza famili
 
 Il netto **annuo** non cambia con il numero di mensilità: IRPEF e contributi si calcolano sul reddito annuo, e il conguaglio di dicembre allinea tutto. Cambia solo la divisione: lo stesso netto annuo diviso per 14 dà rate più basse che diviso per 13. La tredicesima (e la quattordicesima) non sono un "extra" sopra la RAL: sono dentro la RAL, come dice la formula.
 
-L'errore da evitare è dividere per 12 quando hai 13 o 14 mensilità: 24.750,10 € / 12 = 2.062,51 € è un numero che non compare su nessuna busta paga. Il numero di mensilità dipende dal contratto: il [CCNL Metalmeccanico](/ccnl-metalmeccanico/) ne prevede 13, il [CCNL Commercio](/ccnl-commercio/) ne prevede 14. Come la tredicesima entra in busta paga è spiegato nella pagina sulla [busta paga](/busta-paga/).
+L'errore da evitare è dividere per 12 quando hai 13 o 14 mensilità: 24.750,10 € / 12 = 2.062,51 € è un numero che non compare su nessuna busta paga. Il numero di mensilità dipende dal contratto: il [CCNL Metalmeccanico](/ccnl-metalmeccanico/) ne prevede 13, il [CCNL Commercio](/ccnl-commercio/) ne prevede 14. La tredicesima è una mensilità aggiuntiva, tassata come le altre: la pagina sulla [busta paga](/busta-paga/) la cita tra le voci del cedolino.
 
 ## Calcolo inverso: dal netto alla RAL
 
@@ -114,9 +114,9 @@ Come orientamento, le stime pubblicate indicano che per circa **2.000 € netti 
 
 ## Le addizionali regionali: quanto cambia il netto a parità di RAL
 
-A parità di RAL, il netto cambia con la regione e con il Comune di residenza: l'addizionale regionale e quella comunale si calcolano sullo stesso imponibile dell'IRPEF, e dipendono dal domicilio fiscale al 1° gennaio. Le aliquote base regionali vanno dallo 0,70% del Friuli-Venezia Giulia al 2,03% di Calabria e Campania; l'addizionale comunale è stimata allo 0,5% (massimo 0,8%, 0,9% a Roma, 0,8% a Milano).
+A parità di RAL, il netto cambia con la regione e con il Comune di residenza: l'addizionale regionale e quella comunale si calcolano sullo stesso imponibile dell'IRPEF, e dipendono dal domicilio fiscale al 1° gennaio. Le aliquote base regionali vanno dallo 0,70% del Friuli-Venezia Giulia al 2,03% del Molise; l'addizionale comunale è stimata allo 0,5% (massimo 0,8%, 0,9% a Roma, 0,8% a Milano).
 
-La Lombardia, in particolare, applica scaglioni propri di reddito, pubblicati nella [pagina ufficiale della Regione Lombardia](https://www.regione.lombardia.it/bollo-auto-e-tributi-regionali/red-addizionale-regionale-irpef): 1,23% fino a 15.000 €, 1,58% da 15.001 a 28.000 €, 1,72% da 28.001 a 50.000 €, 1,73% oltre 50.000 €. Il calcolatore, come spiegato nella [metodologia](/metodologia/), applica invece l'**aliquota base** della regione sull'intero imponibile — per la Lombardia l'1,23% — come stima dichiarata. Sulla RAL da 30.000 € la differenza rispetto all'applicazione progressiva è di circa **3,30 € al mese** (377,94 € contro 335,09 € l'anno): piccola, ma dichiarata, non nascosta. Il dettaglio del sesto passaggio è nella pagina sul [calcolo dell'IRPEF](/calcolo-irpef/).
+La Lombardia, in particolare, applica scaglioni propri di reddito, pubblicati nella [pagina ufficiale della Regione Lombardia](https://www.regione.lombardia.it/bollo-auto-e-tributi-regionali/red-addizionale-regionale-irpef): 1,23% fino a 15.000 €, 1,58% da 15.001 a 28.000 €, 1,72% da 28.001 a 50.000 €, 1,73% oltre 50.000 €. Il calcolatore, come spiegato nella [metodologia](/metodologia/), applica invece l'**aliquota base** della regione sull'intero imponibile — per la Lombardia l'1,23% — come stima dichiarata. Sulla RAL da 30.000 € la differenza rispetto all'applicazione progressiva è di circa **3,30 € al mese** (377,94 € contro 335,09 € l'anno): piccola, ma dichiarata, non nascosta. Il dettaglio del sesto passaggio in generale — come si calcolano le addizionali — è nella pagina sul [calcolo dell'IRPEF](/calcolo-irpef/).
 
 ## RAL part-time: come si calcola
 
@@ -165,7 +165,7 @@ La RAL è annua: le mensilità sono solo il modo in cui viene divisa. Il netto a
 
 ### Cosa non è incluso nella RAL (TFR? bonus? straordinari? buoni pasto?)
 
-Il **TFR** (matura a parte, circa 1/13,5 della retribuzione), i **contributi a carico del datore** (INPS, INAIL), gli **straordinari** e i **premi variabili**, i **rimborsi spese** e i **buoni pasto** entro i limiti, e i **fringe benefit** entro la franchigia di 1.000 € l'anno (L. 207/2024).
+Il **TFR** (matura a parte, circa 1/13,5 della retribuzione), i **contributi a carico del datore** (INPS, INAIL), gli **straordinari** e i **premi variabili**, i **rimborsi spese** e i **buoni pasto** entro i limiti, e i **fringe benefit** entro la franchigia di 1.000 € l'anno (2.000 € per chi ha figli a carico; L. 207/2024).
 
 ### RAL e stipendio netto: che differenza c'è?
 
@@ -173,7 +173,7 @@ La RAL è il lordo annuo pattuito; lo **stipendio netto** è quello che resta do
 
 ### Le addizionali regionali cambiano il netto a parità di RAL?
 
-Sì. L'addizionale regionale dipende dalla regione di domicilio fiscale e va dallo 0,70% del Friuli-Venezia Giulia al 2,03% di Calabria e Campania (aliquote base); la Lombardia applica scaglioni propri (1,23%–1,73%). Il calcolatore usa l'aliquota base come stima dichiarata: come è modellata è spiegato nella [metodologia](/metodologia/).
+Sì. L'addizionale regionale dipende dalla regione di domicilio fiscale e va dallo 0,70% del Friuli-Venezia Giulia al 2,03% del Molise (aliquote base); la Lombardia applica scaglioni propri (1,23%–1,73%). Il calcolatore usa l'aliquota base come stima dichiarata: come è modellata è spiegato nella [metodologia](/metodologia/).
 
 ### Come si calcola la RAL part-time?
 

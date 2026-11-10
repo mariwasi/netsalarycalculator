@@ -145,8 +145,8 @@ Un familiare è fiscalmente a carico se il suo reddito annuo non supera
 2.840,51 € (4.000 € per i figli fino a 24 anni). Dal 2022, per i figli sotto i
 21 anni non spettano più detrazioni in busta paga: sono sostituite
 dall'assegno unico universale pagato dall'INPS. Restano le detrazioni per i
-figli **di età pari o superiore a 21 anni ma inferiore a 30 anni, nonché figli di età pari o superiore a 30 anni con disabilità accertata** (950 € teorici ciascuno, senza maggiorazioni), per il **coniuge** (da 575 a 800 € a seconda del
-reddito) e per gli **altri familiari conviventi** (750 € teorici ciascuno).
+figli **di età pari o superiore a 21 anni ma inferiore a 30 anni, nonché figli di età pari o superiore a 30 anni con disabilità accertata** (950 € teorici ciascuno, senza maggiorazioni), per il **coniuge** (da 690 a 800 € a seconda del
+reddito) e per gli **ascendenti conviventi** (genitori e nonni, 750 € teorici ciascuno).
 
 Qui sta l'errore più costoso tra quelli che circolano: **l'importo pieno è
 solo teorico**. La detrazione effettiva si riduce in proporzione al reddito,
@@ -154,7 +154,7 @@ con un quoziente, e non va mai applicata piatta. Per i figli la formula è:
 
 **detrazione effettiva = 950 € × (soglia − RC) / soglia**,
 dove la soglia è 95.000 €, aumentata di 15.000 € per ogni figlio successivo
-al primo. Per gli altri familiari: 750 € × (80.000 − RC) / 80.000.
+al primo. Per gli ascendenti conviventi (genitori e nonni): 750 € × (80.000 − RC) / 80.000.
 
 Un esempio secco: con RC 40.000 € e un figlio a carico, la detrazione non è
 950 € ma 950 × (95.000 − 40.000) / 95.000 = **550,00 €**. Chi stimasse il

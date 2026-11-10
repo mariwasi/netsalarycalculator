@@ -44,7 +44,7 @@ Due controlli che vale la pena fare su questa tabella. Primo: il netto è l'**82
 
 ## Tabella: netto mensile per regione (RAL 30.000 €, 13 mensilità)
 
-A parità di RAL, il netto cambia con la regione: l'unica voce che si muove è l'addizionale regionale. IRPEF, contributi e bonus sono uguali ovunque; l'addizionale comunale è stimata allo 0,5% per tutte le regioni. La differenza tra la regione più alta e la più bassa è di **36,25 € al mese**.
+A parità di RAL, il netto cambia con la regione: l'unica voce che si muove è l'addizionale regionale. IRPEF, contributi e bonus sono uguali ovunque; l'addizionale comunale è stimata allo 0,5% per tutte le regioni. La differenza tra la regione più alta e la più bassa è di **42,54 € al mese**.
 
 | Regione | Addizionale regionale | Netto mensile (13 mensilità) |
 |---|---|---|
@@ -59,7 +59,7 @@ A parità di RAL, il netto cambia con la regione: l'unica voce che si muove è l
 | Liguria | 335,09 € | 1.903,85 € |
 | Lombardia | 335,09 € | 1.903,85 € |
 | Marche | 335,09 € | 1.903,85 € |
-| Molise | 471,30 € | 1.893,38 € |
+| Molise | 553,03 € | 1.887,09 € |
 | Piemonte | 441,34 € | 1.895,68 € |
 | Puglia | 362,33 € | 1.901,76 € |
 | Sardegna | 335,09 € | 1.903,85 € |
@@ -84,7 +84,7 @@ Se la tua RAL non è 30.000 €, i valori vicini sono: RAL 25.000 € → 1.667,
 
 ### 30000 euro lordi quanto sono netti al mese?
 
-Con una RAL di 30.000 €, in Lombardia, 13 mensilità e nessun familiare a carico, il netto è **1.903,85 € al mese** (24.750,10 € l'anno). Con 12 mensilità sono 2.062,51 € al mese, con 14 mensilità 1.767,86 € al mese; il netto annuo non cambia. In altre regioni il valore va da 1.893,38 € a 1.929,63 € al mese (vedi la tabella per regione).
+Con una RAL di 30.000 €, in Lombardia, 13 mensilità e nessun familiare a carico, il netto è **1.903,85 € al mese** (24.750,10 € l'anno). Con 12 mensilità sono 2.062,51 € al mese, con 14 mensilità 1.767,86 € al mese; il netto annuo non cambia. In altre regioni il valore va da 1.887,09 € a 1.929,63 € al mese (vedi la tabella per regione).
 
 ### Con 14 mensilità quanto è il netto di 30.000 € di RAL?
 
@@ -92,6 +92,6 @@ Con una RAL di 30.000 €, in Lombardia, 13 mensilità e nessun familiare a cari
 
 ### La RAL di 30.000 € cambia con la regione?
 
-Sì, ma di poco: il netto mensile va da **1.893,38 €** (Calabria, Campania, Lazio, Molise) a **1.929,63 €** (Bolzano e Trento, dove le detrazioni provinciali azzerano l'addizionale a questo livello di reddito). In Lombardia è 1.903,85 €. La differenza tra la regione più alta e la più bassa è di 36,25 € al mese.
+Sì, ma di poco: il netto mensile va da **1.887,09 €** (Molise) a **1.929,63 €** (Bolzano e Trento, dove le detrazioni provinciali azzerano l'addizionale a questo livello di reddito). In Lombardia è 1.903,85 €. La differenza tra la regione più alta e la più bassa è di 42,54 € al mese.
 
 *Ultimo aggiornamento: novembre 2026. Le informazioni hanno carattere divulgativo e non sostituiscono la consulenza di un commercialista o di un consulente del lavoro. Fonti normative: TUIR (D.P.R. 917/1986), artt. 11, 12 e 13; Legge di Bilancio 2026 (L. 199/2025) per il secondo scaglione al 33%; L. 207/2024 per la disciplina strutturale del cuneo fiscale. Le aliquote regionali sono le aliquote base di gennaio 2026; come sono modellate è spiegato nella [metodologia](/metodologia/).*
