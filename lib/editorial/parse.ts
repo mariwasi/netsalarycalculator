@@ -153,6 +153,22 @@ function isSeparator(line: string): boolean {
   return /^\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?$/.test(line.trim());
 }
 
+// A wrapped list item continues on an indented line. It belongs to the item,
+// not to a new paragraph — unless it starts a new block (heading, quote,
+// table, separator, or another list item).
+function isContinuationLine(line: string): boolean {
+  if (!/^[ \t]+\S/.test(line)) return false;
+  const trimmed = line.trim();
+  if (!trimmed) return false;
+  if (trimmed === "---") return false;
+  if (trimmed.startsWith("#")) return false;
+  if (trimmed.startsWith(">")) return false;
+  if (isTableLine(trimmed) || isSeparator(trimmed)) return false;
+  if (/^\d+\.\s+/.test(trimmed)) return false;
+  if (trimmed.startsWith("- ")) return false;
+  return true;
+}
+
 function tableCells(line: string): Inline[][] {
   const trimmed = line.trim().replace(/^\|/, "").replace(/\|$/, "");
   return trimmed.split("|").map((cell) => parseInline(cell.trim()));
@@ -238,8 +254,15 @@ function parseRaw(body: string): { title: string; blocks: RawBlock[] } {
     if (/^\d+\.\s+/.test(trimmed)) {
       const items: Inline[][] = [];
       while (index < lines.length && /^\d+\.\s+/.test(lines[index].trim())) {
-        items.push(parseInline(lines[index].trim().replace(/^\d+\.\s+/, "")));
+        let text = lines[index].trim().replace(/^\d+\.\s+/, "");
         index += 1;
+        // Wrapped list items continue on indented lines: keep them in the
+        // same item instead of splitting the list (and restarting numbering).
+        while (index < lines.length && isContinuationLine(lines[index])) {
+          text += ` ${lines[index].trim()}`;
+          index += 1;
+        }
+        items.push(parseInline(text));
       }
       blocks.push({ type: "ol", items });
       continue;
@@ -248,8 +271,13 @@ function parseRaw(body: string): { title: string; blocks: RawBlock[] } {
     if (trimmed.startsWith("- ")) {
       const items: Inline[][] = [];
       while (index < lines.length && lines[index].trim().startsWith("- ")) {
-        items.push(parseInline(lines[index].trim().replace(/^- /, "")));
+        let text = lines[index].trim().replace(/^- /, "");
         index += 1;
+        while (index < lines.length && isContinuationLine(lines[index])) {
+          text += ` ${lines[index].trim()}`;
+          index += 1;
+        }
+        items.push(parseInline(text));
       }
       blocks.push({ type: "ul", items });
       continue;
