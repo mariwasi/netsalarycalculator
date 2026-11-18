@@ -34,10 +34,7 @@ export function HomepageArticle() {
           <article>
             <h2 id="che-cos-e" className={heading}>Che cos’è lo stipendio netto?</h2>
             <p className="mt-2">
-              Lo stipendio netto è la somma che resta dopo i contributi previdenziali a carico del lavoratore e le imposte trattenute dal datore di lavoro. Non coincide con la RAL e, in una busta paga vera, può cambiare da un mese all’altro per premi, assenze, benefit o conguagli.
-            </p>
-            <p className="mt-2">
-              Questa guida spiega lo stipendio lordo netto: quanto del lordo diventa netto e perché.
+              Lo stipendio netto è la somma che resta dopo i contributi previdenziali a carico del lavoratore e le imposte trattenute dal datore di lavoro. Non coincide con la RAL e, in una busta paga vera, può cambiare da un mese all’altro per premi, assenze, benefit o conguagli. Questa guida spiega lo stipendio lordo netto: quanto del lordo diventa netto e perché.
             </p>
             <p className="mt-2">
               Questo sito stima un anno intero di lavoro dipendente privato e poi lo divide per il numero di mensilità scelto. È un ordine di grandezza, utile per confrontare una RAL, non un cedolino.

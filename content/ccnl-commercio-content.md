@@ -5,6 +5,8 @@
 
 # CCNL Commercio: come funzionano i livelli e quanto cambia lo stipendio netto — hub
 
+Il CCNL Commercio — Terziario, Distribuzione e Servizi, codice CNEL H011 — prevede 14 mensilità e 7 livelli. Il livello decide il minimo retributivo e gran parte delle voci in busta paga, e da esso dipende anche lo stipendio netto. Questa pagina spiega come è costruito il sistema dei livelli e come il livello si traduce in netto.
+
 ---
 
 ## Il CCNL Commercio in una frase

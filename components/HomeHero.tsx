@@ -15,7 +15,7 @@ export function HomeHero({ calculator }: { calculator: ReactNode }) {
                 Calcolo stipendio netto <span className="text-[#C6F24E]">2026</span>: dal lordo al netto in un minuto
               </h1>
               <p className="mt-3 max-w-xl text-[17px] leading-relaxed text-[#CDE8DC]">
-                Stima quanto potresti ricevere in busta paga partendo dalla tua RAL, con un riepilogo chiaro delle principali voci fiscali.
+                Stima quanto potresti ricevere in busta paga partendo dalla tua RAL, con un riepilogo chiaro delle principali voci fiscali. Con RAL 30.000 € in Lombardia e 13 mensilità, il netto è 1.903,85 € al mese.
               </p>
             </div>
             <GuideAskBox compact />

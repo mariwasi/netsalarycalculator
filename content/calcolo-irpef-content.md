@@ -5,18 +5,7 @@
 
 # Calcolo IRPEF: come si calcola, la guida completa 2026 con esempi veri
 
-L'IRPEF è l'imposta che pesa di più sulla busta paga, ed è anche quella che
-viene spiegata peggio. La frase che si sente più spesso — "pago il 33%" oppure
-"pago il 43%" — è quasi sempre sbagliata, e non di poco: l'aliquota dello
-scaglione in cui cade il tuo ultimo euro non è l'aliquota che paghi su tutto
-il reddito, e prima ancora che gli scaglioni entrino in gioco ci sono i
-contributi INPS che abbassano la base, e dopo ci sono le detrazioni che
-abbassano l'imposta. In questa pagina rifacciamo il calcolo dall'inizio alla
-fine, con le regole in vigore nel 2026 e due esempi svolti fino all'ultimo
-centesimo, così puoi verificare la tua busta paga riga per riga invece di
-fidarti di una percentuale sentita dire.
-
-La sequenza completa, per un lavoratore dipendente, è questa:
+L'IRPEF è l'imposta che pesa di più sulla busta paga, ed è anche quella che viene spiegata peggio. La frase che si sente più spesso — “pago il 33%” oppure “pago il 43%” — è quasi sempre sbagliata: nel 2026 gli scaglioni sono 23% fino a 28.000 €, 33% fino a 50.000 € e 43% oltre, ma l'aliquota dello scaglione in cui cade il tuo ultimo euro non è quella che paghi su tutto il reddito. Prima ancora che gli scaglioni entrino in gioco ci sono i contributi INPS che abbassano la base, e dopo ci sono le detrazioni che abbassano l'imposta. In questa pagina rifacciamo il calcolo dall'inizio alla fine, con le regole in vigore nel 2026 e due esempi svolti fino all'ultimo centesimo, e la sequenza completa per un lavoratore dipendente è questa:
 
 1. Dalla RAL sottrai i contributi INPS: ottieni il **reddito imponibile**.
 2. Sull'imponibile applichi gli **scaglioni IRPEF**: ottieni l'**IRPEF lorda**.

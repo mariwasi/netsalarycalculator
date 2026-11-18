@@ -10,7 +10,7 @@
 
 # Busta paga: cos'è, come è fatta e cosa significano le sue voci
 
-Ogni mese la apri, guardi l'ultima riga — il netto — e la chiudi. È quello che fa quasi chiunque. Ma la **busta paga** (o cedolino) è molto di più di un avviso di accredito: è il documento ufficiale che racconta il tuo rapporto di lavoro, voce per voce. Dentro ci sono il tuo livello, i tuoi scatti, le ferie che hai maturato, il TFR che stai accumulando e le tasse che stai pagando. Se da qualche parte c'è un errore — e gli errori in busta paga esistono, quasi sempre in buona fede — l'unico modo per accorgersene è saperla leggere.
+Ogni mese la apri, guardi l'ultima riga — il netto — e la chiudi, come fa quasi chiunque. Ma la **busta paga** (o cedolino) è molto di più di un avviso di accredito: è il documento ufficiale che racconta il tuo rapporto di lavoro, voce per voce. Dentro ci sono il tuo livello, i tuoi scatti, le ferie che hai maturato, il TFR che stai accumulando e le tasse che stai pagando, divisi in quattro sezioni — testata, competenze, trattenute, riepiloghi. Se da qualche parte c'è un errore — e gli errori in busta paga esistono, quasi sempre in buona fede — l'unico modo per accorgersene è saperla leggere.
 
 Questa pagina ti spiega com'è fatta e cosa significa ogni voce. Se invece vuoi imparare come leggere buste paga, mese per mese, vai alla guida passo passo: [come leggere busta paga](/come-leggere-la-busta-paga/) — con un esempio di busta paga compilato, voce per voce. La guida parte dalla testata e arriva al netto, con i controlli da fare ogni mese.
 
