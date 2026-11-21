@@ -5,7 +5,7 @@
 
 # RAL 28.000 €: quanto è lo stipendio netto al mese?
 
-Con una **RAL di 28.000 €** lo stipendio netto è **1.811,49 € al mese** (23.549,31 € l'anno) in Lombardia, con 13 mensilità. Detto in un'altra forma: **28000 euro lordi quanto sono netti?** 1.811,49 € al mese, con le ipotesi dichiarate qui sotto. Se la tua regione o le tue mensilità sono diverse, il numero cambia di poco: la tabella per regione e quella per mensilità, più sotto, danno il valore esatto per il tuo caso. Per qualsiasi altra RAL, usa il [calcolatore dello stipendio netto](/) con la tua regione e le tue mensilità.
+Con una **RAL di 28.000 €** lo stipendio netto è **1.811,49 € al mese** (23.549,31 € l'anno) in Lombardia, con 13 mensilità. Detto in un'altra forma: **28000 euro lordi quanto sono netti?** 1.811,49 € al mese, con le ipotesi dichiarate qui sotto. Se la tua regione o le tue mensilità sono diverse, il numero cambia di poco: la tabella per regione e quella per mensilità, più sotto, danno il valore esatto per il tuo caso, e per qualsiasi altra RAL puoi usare il [calcolatore dello stipendio netto](/) con la tua regione e le tue mensilità.
 
 Le ipotesi degli esempi di questa pagina: dipendente del settore privato, contratto a tempo indeterminato, anno intero, nessun familiare a carico, regole in vigore nel 2026. Il bonus di 1.200 € (trattamento integrativo) è incluso perché spetta a questo livello di reddito; l'addizionale comunale è una stima dello 0,5%, perché l'aliquota vera dipende dal Comune; l'addizionale regionale è l'aliquota base della regione, come spiegato nella [metodologia](/metodologia/).
 
