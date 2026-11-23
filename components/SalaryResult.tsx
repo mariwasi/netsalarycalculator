@@ -47,7 +47,14 @@ function ResultBody({ result }: { result: SalaryEstimate }) {
       <dl className="mt-5 divide-y divide-line border-y border-line">
         <Row label="Stipendio netto annuo stimato" value={formatEuro(result.netAnnual)} />
         <Row label="RAL inserita" value={formatEuro(result.ral)} />
-        <Row label="Trattenute mensili stimate" value={formatEuro(result.deductionsMonthly)} />
+        <Row
+          label={
+            result.trattamentoIntegrativo > 0
+              ? "Trattenute mensili stimate (prima del bonus)"
+              : "Trattenute mensili stimate"
+          }
+          value={formatEuro(result.deductionsMonthly)}
+        />
         <Row label="IRPEF netta annua" value={formatEuro(result.irpefNet)} />
         <Row
           label={result.inpsExtraBase > 0 ? "Contributi INPS, incluso l’1% aggiuntivo" : "Contributi INPS annui"}

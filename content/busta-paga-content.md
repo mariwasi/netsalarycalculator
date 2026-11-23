@@ -108,6 +108,9 @@ No. Il premio assicurativo INAIL è a carico del datore di lavoro e non compare 
 
 Cerca una voce come "netto a pagare" o "netto del mese": la dicitura e la posizione variano secondo il formato del cedolino. Verifica anche che l'importo corrisponda al pagamento ricevuto, tenendo conto di eventuali voci o conguagli.
 
+### Cosa succede alla busta paga quando mi dimetto?
+L'ultima busta paga chiude le competenze maturate e i progressivi dell'anno. Per i giorni di preavviso da rispettare prima di uscire, le regole sono quelle del tuo CCNL: la pagina sul [preavviso per dimissioni](/preavviso-dimissioni/) spiega come si contano i giorni, come si calcola la data di uscita e quanto costa saltarlo.
+
 ## Fonti e aggiornamento
 
 - [Legge 5 gennaio 1953, n. 4 — Normattiva](https://www.normattiva.it/eli/id/1953/01/27/053U0004/CONSOLIDATED/20260628): obbligo del prospetto paga, CCNL con codice alfanumerico unico e firma del datore di lavoro.

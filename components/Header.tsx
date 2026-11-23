@@ -138,8 +138,7 @@ export function Header() {
                 ▾
               </span>
             </button>
-            {guideOpen ? (
-              <div id={desktopMenuId} className="absolute top-full right-0 z-50 pt-2">
+              <div id={desktopMenuId} className={guideOpen ? "absolute top-full right-0 z-50 pt-2" : "absolute top-full right-0 z-50 hidden pt-2"}>
                 <ul className="w-72 rounded-xl border border-line bg-white py-1 shadow-[0_12px_28px_rgba(0,76,63,0.12)]">
                   {guideLinks.map((link) => (
                     <li key={link.href}>
@@ -154,7 +153,6 @@ export function Header() {
                   ))}
                 </ul>
               </div>
-            ) : null}
           </div>
         </nav>
 
@@ -182,8 +180,7 @@ export function Header() {
         </div>
       </div>
 
-      {open ? (
-        <nav id={menuId} className="border-t border-line bg-white px-4 py-3 md:hidden" aria-label="Menu mobile">
+        <nav id={menuId} className={open ? "border-t border-line bg-white px-4 py-3 md:hidden" : "hidden border-t border-line bg-white px-4 py-3 md:hidden"} aria-label="Menu mobile">
           <ul className="flex flex-col">
             {links.map((link) => (
               <li key={link.href}>
@@ -210,8 +207,7 @@ export function Header() {
                   Guide
                   <span aria-hidden="true">{guideOpen ? "−" : "+"}</span>
                 </button>
-                {guideOpen ? (
-                  <ul id={mobileGuideId} className="pb-1">
+                  <ul id={mobileGuideId} className={guideOpen ? "pb-1" : "hidden pb-1"}>
                     {guideLinks.map((link) => (
                       <li key={link.href}>
                         <Link
@@ -224,7 +220,6 @@ export function Header() {
                       </li>
                     ))}
                   </ul>
-                ) : null}
               </div>
             </li>
             <li>
@@ -234,7 +229,6 @@ export function Header() {
             </li>
           </ul>
         </nav>
-      ) : null}
     </header>
   );
 }

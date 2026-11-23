@@ -113,4 +113,7 @@ No: a parità di RAL, regione, mensilità e situazione familiare, il calcolo fis
 ### Come si confronta il Commercio con il Metalmeccanico?
 Il confronto onesto si fa sul netto annuo e a parità di responsabilità, non livello per livello: le scale dei due contratti non sono sovrapponibili, il Metalmeccanico ha 13 mensilità contro le 14 del Commercio e un welfare contrattuale diverso. La pagina hub del [CCNL Metalmeccanico](/ccnl-metalmeccanico/) spiega il sistema dell'altro contratto.
 
+### Quanto preavviso devo dare se mi dimetto?
+Dipende dal contratto e dall'anzianità: i giorni si contano in giorni di calendario e il calcolo segue le tabelle del CCNL. La pagina sul [preavviso per dimissioni](/preavviso-dimissioni/) spiega come si contano i giorni, come si calcola la data di uscita e quanto costa saltare il preavviso.
+
 *Ultimo aggiornamento: novembre 2026. Le informazioni hanno carattere divulgativo e non sostituiscono la consulenza di un professionista. Gli esempi numerici sono illustrativi e usano le regole fiscali 2026 verificate del sito; i minimi retributivi contrattuali non sono riportati in questa pagina hub e vanno verificati sul proprio contratto e sulla propria busta paga.*

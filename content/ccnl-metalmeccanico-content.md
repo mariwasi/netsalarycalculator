@@ -5,7 +5,7 @@
 
 # CCNL Metalmeccanico: livelli, mansioni e stipendio netto — la guida hub
 
-Se lavori in un'azienda metalmeccanica, quasi tutto quello che conta nella tua busta paga passa da una sigla: il tuo livello. Non è un voto, e non è un'etichetta decorativa. È la riga che decide la tua paga base, e da quella riga discendono straordinari, tredicesima, TFR e persino la durata del preavviso se un giorno ti dimetti. Questa pagina è la mappa della scala: come è fatta, che lavoro corrisponde a ciascun gradino, e perché lo stipendio netto cambia quando il livello cambia — e perché, a parità di livello, due colleghi possono portare a casa cifre diverse.
+Se lavori in un'azienda metalmeccanica, quasi tutto quello che conta nella tua busta paga passa da una sigla: il tuo livello. Non è un voto, e non è un'etichetta decorativa. È la riga che decide la tua paga base, e da quella riga discendono straordinari, tredicesima, TFR e persino la durata del [preavviso](/preavviso-dimissioni/) se un giorno ti dimetti. Questa pagina è la mappa della scala: come è fatta, che lavoro corrisponde a ciascun gradino, e perché lo stipendio netto cambia quando il livello cambia — e perché, a parità di livello, due colleghi possono portare a casa cifre diverse.
 
 Questa è una pagina hub: spiega il sistema dei livelli e come si calcola il netto da ogni minimo. Le pagine dedicate a ciascun livello, con il calcolo del netto passo passo per quella posizione, sono in preparazione. Non è una tabella stipendi, perché una tabella da sola inganna: il minimo contrattuale è un lordo mensile, e tra quel lordo e il netto c'è un percorso intero di contributi, imposte e detrazioni.
 
